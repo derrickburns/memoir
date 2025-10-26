@@ -1,0 +1,68 @@
+# Book Metadata for Publishing
+# Used by Pandoc to generate EPUB and PDF
+
+# Basic Information
+title: "From Walls to Bridges"
+subtitle: "A Journey of Resilience and Connection"
+author: "Derrick R. Burns"
+date: "2025"
+
+# Publishing Information
+publisher: "Self-Published"
+rights: "© 2025 Derrick R. Burns. All rights reserved."
+
+# ISBN (add when you have them)
+# isbn-10: "1234567890"
+# isbn-13: "978-1234567890"
+
+# Language
+lang: en-US
+
+# Description/Synopsis
+description: |
+  A memoir exploring themes of identity, resilience, family, and connection.
+  Through personal stories spanning decades, the author navigates the complexities
+  of race, technology, relationships, and personal growth.
+
+# Keywords for metadata
+keywords:
+  - memoir
+  - resilience
+  - identity
+  - family
+  - technology
+  - personal growth
+
+# EPUB-specific
+# cover-image: cover.jpg  # Uncomment and add cover image
+
+# PDF-specific (for LaTeX)
+documentclass: book
+# Can also use 'memoir' class for more control
+# documentclass: memoir
+
+fontsize: 11pt
+geometry:
+  - paperwidth=6in
+  - paperheight=9in
+  - margin=0.75in
+  - top=1in
+  - bottom=1in
+
+# Chapter settings
+numbersections: true
+toc: true
+toc-depth: 2
+
+# PDF fonts (requires XeLaTeX)
+# mainfont: "Georgia"
+# sansfont: "Arial"
+# monofont: "Courier"
+
+# Link colors (for digital PDF)
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+
+# Keep links but don't color them for print
+# colorlinks: false

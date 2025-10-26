@@ -1,0 +1,229 @@
+# Book Structure Manifest
+# This file defines the structure and order of the book
+# Edit this file to reorder, exclude, or merge chapters
+
+# Book metadata
+book:
+  title: "From Walls to Bridges: A Journey of Resilience and Connection"
+  author: "Derrick R. Burns"
+  copyright: "© 2024 Derrick R. Burns, All rights reserved"
+
+# Front matter (appears before main content)
+front_matter:
+  - file: "output/00_Front_Matter.docx"
+    title: "Front Matter"
+    description: "Title page, dedication, chronological guide"
+    include: true
+
+# Timeline sections
+timeline:
+  - file: "output/Early_Life_1964-1982.docx"
+    title: "Early Life (1964-1982)"
+    include: true
+
+  - file: "output/Princeton_Years_1982-1986.docx"
+    title: "Princeton Years (1982-1986)"
+    include: true
+
+  - file: "output/Graduate_School__Early_Career_1986-1990.docx"
+    title: "Graduate School & Early Career (1986-1990)"
+    include: true
+
+  - file: "output/Silicon_Valley_Rise_1990-1997.docx"
+    title: "Silicon Valley Rise (1990-1997)"
+    include: true
+
+  - file: "output/Professional_Peaks__Valleys_1998-2004.docx"
+    title: "Professional Peaks & Valleys (1998-2004)"
+    include: true
+
+  - file: "output/Family_Transitions_2000-2013.docx"
+    title: "Family Transitions (2000-2013)"
+    include: true
+
+  - file: "output/Personal_Growth_2010-2023.docx"
+    title: "Personal Growth (2010-2023)"
+    include: true
+
+  - file: "output/Health_Crisis__Renewal_2023-2024.docx"
+    title: "Health Crisis & Renewal (2023-2024)"
+    include: true
+
+  - file: "output/Key_Relationships_Timeline.docx"
+    title: "Key Relationships Timeline"
+    include: true
+
+# Main chapters
+# To exclude a chapter: set include to false or comment out the entire entry
+# To reorder: just move entries up or down in this list
+# To merge: list multiple files under a single chapter entry
+chapters:
+  - number: 1
+    file: "output/chapter_01_Chapter_1_Two_Worlds_Converging.docx"
+    title: "Two Worlds Converging"
+    include: true
+
+  - number: 2
+    file: "output/chapter_02_Chapter_2_The_Perfect_Shot.docx"
+    title: "The Perfect Shot"
+    include: true
+
+  - number: 3
+    file: "output/chapter_03_Chapter_3_Lessons_from_Aunt_Mae.docx"
+    title: "Lessons from Aunt Mae"
+    include: true
+
+  - number: 4
+    file: "output/chapter_04_Chapter_4_The_Project_Begins.docx"
+    title: "The Project Begins"
+    include: true
+
+  - number: 5
+    file: "output/chapter_05_Chapter_5_Developing_the_Picture.docx"
+    title: "Developing the Picture"
+    include: true
+
+  - number: 6
+    file: "output/chapter_06_Chapter_6_Dave_Arrives.docx"
+    title: "Dave Arrives"
+    include: true
+
+  - number: 7
+    file: "output/chapter_07_Chapter_7_Two_Different_Boys.docx"
+    title: "Two Different Boys"
+    include: true
+
+  - number: 8
+    file: "output/chapter_08_Chapter_8_Finding_My_Voice.docx"
+    title: "Finding My Voice"
+    include: true
+
+  - number: 9
+    file: "output/chapter_09_Chapter_9_The_Power_of_Belonging.docx"
+    title: "The Power of Belonging"
+    include: true
+
+  - number: 10
+    file: "output/chapter_10_Chapter_10_Performing_Identity.docx"
+    title: "Performing Identity"
+    include: true
+
+  - number: 11
+    file: "output/chapter_11_Chapter_11_Finding_My_Voice.docx"
+    title: "Finding My Voice"
+    include: true
+
+  - number: 12
+    file: "output/chapter_12_Chapter_12_Finding_My_Place_at_Princeton.docx"
+    title: "Finding My Place at Princeton"
+    include: true
+
+  - number: 13
+    file: "output/chapter_13_Chapter_16_Understanding_My_Path.docx"
+    title: "Understanding My Path"
+    include: true
+
+  - number: 14
+    file: "output/chapter_14_Chapter_17_Encountering_Love.docx"
+    title: "Encountering Love"
+    include: true
+
+  - number: 15
+    file: "output/chapter_15_Chapter_18_Becoming_Real.docx"
+    title: "Becoming Real"
+    include: true
+
+  - number: 16
+    file: "output/chapter_16_Chapter_19_What_Blood_Remembers.docx"
+    title: "What Blood Remembers"
+    include: true
+
+  - number: 17
+    file: "output/chapter_17_Chapter_20_What_Love_Complicates.docx"
+    title: "What Love Complicates"
+    include: true
+
+  - number: 18
+    file: "output/chapter_18_Chapter_21_Beyond_the_Algorithm_How_Technical_Excellence_Wasnt_Enough.docx"
+    title: "Beyond the Algorithm: How Technical Excellence Wasn't Enough"
+    include: true
+
+  - number: 19
+    file: "output/chapter_19_Chapter_22_Swimming_with_Sharks_Lessons_from_the_Valley.docx"
+    title: "Swimming with Sharks: Lessons from the Valley"
+    include: true
+
+  - number: 20
+    file: "output/chapter_20_Chapter_23_Searching_for_Black_Excellence_A_Parallel_Journey.docx"
+    title: "Searching for Black Excellence: A Parallel Journey"
+    include: true
+
+  - number: 21
+    file: "output/chapter_21_Chapter_24_Courts_of_Transformation.docx"
+    title: "Courts of Transformation"
+    include: true
+
+  - number: 22
+    file: "output/chapter_22_Chapter_25_A_Fathers_Love.docx"
+    title: "A Father's Love"
+    include: true
+
+  - number: 23
+    file: "output/chapter_23_Chapter_26_A_Mothers_Farewell.docx"
+    title: "A Mother's Farewell"
+    include: true
+
+  - number: 24
+    file: "output/chapter_24_Chapter_27_Colliding_Worlds.docx"
+    title: "Colliding Worlds"
+    include: true
+
+  - number: 25
+    file: "output/chapter_25_Chapter_28_Final_Gestures.docx"
+    title: "Final Gestures"
+    include: true
+
+  - number: 26
+    file: "output/chapter_26_Chapter_29_Dave_Becomes_Jala.docx"
+    title: "Dave Becomes Jala"
+    include: true
+
+  - number: 27
+    file: "output/chapter_27_Chapter_30_Holding_On.docx"
+    title: "Holding On"
+    include: true
+
+  - number: 28
+    file: "output/chapter_28_Chapter_31_Letting_Go.docx"
+    title: "Letting Go"
+    include: true
+
+  - number: 29
+    file: "output/chapter_29_Chapter_32_The_Diagnosis.docx"
+    title: "The Diagnosis"
+    include: true
+
+  - number: 30
+    file: "output/chapter_30_Chapter_33_A_Problem_to_Overcome.docx"
+    title: "A Problem to Overcome"
+    include: true
+
+  - number: 31
+    file: "output/chapter_31_Chapter_34_The_Battle.docx"
+    title: "The Battle"
+    include: true
+
+  - number: 32
+    file: "output/chapter_32_Chapter_35_The_Triumph.docx"
+    title: "The Triumph"
+    include: true
+
+  - number: 33
+    file: "output/chapter_33_Chapter_36_Full_Circle.docx"
+    title: "Full Circle"
+    include: true
+
+  - number: 34
+    file: "output/chapter_34_Chapter_37_Fearless_Love.docx"
+    title: "Fearless Love"
+    include: true
