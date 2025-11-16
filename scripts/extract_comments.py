@@ -48,21 +48,44 @@ class CommentExtractor:
             if self.creds and self.creds.expired and self.creds.refresh_token:
                 self.creds.refresh(Request())
             else:
-                # Check if credentials.json exists
-                if not os.path.exists(credentials_path):
-                    print(f"\nERROR: {credentials_path} not found!")
-                    print("\nTo use this script, you need to:")
-                    print("1. Go to https://console.cloud.google.com/")
-                    print("2. Create a new project (or select existing)")
-                    print("3. Enable Google Docs API and Google Drive API")
-                    print("4. Create OAuth 2.0 credentials (Desktop app)")
-                    print("5. Download the credentials as 'credentials.json'")
-                    print("6. Place credentials.json in the data/ directory")
-                    sys.exit(1)
+                # Check for environment variables first
+                client_id = os.environ.get('MEMOIR_CLIENT_ID')
+                client_secret = os.environ.get('MEMOIR_CLIENT_SECRET')
 
-                flow = InstalledAppFlow.from_client_secrets_file(
-                    credentials_path, SCOPES)
-                self.creds = flow.run_local_server(port=0)
+                if client_id and client_secret:
+                    # Create credentials from environment variables
+                    print("Using credentials from environment variables (MEMOIR_CLIENT_ID and MEMOIR_CLIENT_SECRET)")
+                    client_config = {
+                        "installed": {
+                            "client_id": client_id,
+                            "client_secret": client_secret,
+                            "redirect_uris": ["http://localhost"],
+                            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+                            "token_uri": "https://oauth2.googleapis.com/token"
+                        }
+                    }
+                    flow = InstalledAppFlow.from_client_config(client_config, SCOPES)
+                    self.creds = flow.run_local_server(port=0)
+                elif os.path.exists(credentials_path):
+                    # Fall back to credentials.json file
+                    print(f"Using credentials from {credentials_path}")
+                    flow = InstalledAppFlow.from_client_secrets_file(
+                        credentials_path, SCOPES)
+                    self.creds = flow.run_local_server(port=0)
+                else:
+                    print(f"\nERROR: No credentials found!")
+                    print("\nTo use this script, you need EITHER:")
+                    print("  Option A: Set environment variables:")
+                    print("    export MEMOIR_CLIENT_ID='your_client_id'")
+                    print("    export MEMOIR_CLIENT_SECRET='your_client_secret'")
+                    print("\n  OR Option B: Use credentials.json file:")
+                    print("    1. Go to https://console.cloud.google.com/")
+                    print("    2. Create a new project (or select existing)")
+                    print("    3. Enable Google Docs API and Google Drive API")
+                    print("    4. Create OAuth 2.0 credentials (Desktop app)")
+                    print("    5. Download the credentials as 'credentials.json'")
+                    print("    6. Place credentials.json in the data/ directory")
+                    sys.exit(1)
 
             # Save the credentials for the next run
             with open(token_path, 'wb') as token:

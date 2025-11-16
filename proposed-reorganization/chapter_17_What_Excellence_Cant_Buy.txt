@@ -1,0 +1,132 @@
+Chapter 17: What Excellence Can't Buy
+
+**1993 - The Breakthrough**
+
+Frank was stuck. The video hardware driver refused to cooperate, frame drops everywhere, the kind of bug that makes you question everything.
+
+Then the hardware designer flew in from France. We were his first customer, the first company trying to use his chip in a real product. He'd designed the architecture on paper, watched it manufactured, but he'd never seen it actually decode video in real time.
+
+I cleared space in my office. Frank pulled up chairs. We hunched over the workstation, debugging together.
+
+Three hours later, the code clicked.
+
+"Try it now," I said.
+
+Frank loaded The Terminator. Hit play.
+
+The movie streamed across the network. Crystal clear. He hit pause—it froze instantly. Rewind. Fast-forward. All the VCR controls, but over streaming video, something no one had done before.
+
+The hardware designer stared at the screen, then at us. "This is... this is what I imagined. But I never thought—"
+
+"It works," Frank said, grinning.
+
+It was 2007, achieved in 1994.
+
+But the infrastructure wasn't ready. The world wasn't ready. We'd built tomorrow with technology that wouldn't arrive for another decade.
+
+**1994 - The Weight of What We'd Built**
+
+The Orlando project shipped. Production-ready software, delivered on time. Time Warner offered me a supervisory role—recognition of what we'd accomplished.
+
+I should have felt triumphant.
+
+Instead, I felt the weight of being too early. We'd proven interactive television was possible, but the infrastructure to deliver it didn't exist. It was like building a Ferrari for roads that hadn't been paved yet.
+
+After months of climbing a technical mountain, I felt restless at the peak. I wanted another mountain to climb, not another railroad track to lay.
+
+Wei Yen saw it and offered a path forward: a promotion into professional services. Leadership instead of pure engineering.
+
+Frank stayed behind to turn our breakthrough into something others could install. I moved on, carrying the restlessness with me.
+
+**1994 - Maynard Shows Me Tomorrow**
+
+"You need to see this," Maynard said, pulling up a chair in my office.
+
+Maynard Holliday—my former Stanford roommate, astronaut candidate, someone who understood what the future looked like before it arrived. If Maynard thought something mattered, I paid attention.
+
+He opened a browser called Mosaic.
+
+In an instant, I saw tomorrow.
+
+This wasn't just software. It was a portal. Click a link, travel anywhere. Information that had lived in isolated silos suddenly connected. The internet had been around for years, but Mosaic made it visible, accessible, real.
+
+"This changes everything," I said.
+
+"Jim Clark thinks so too," Maynard replied. "He just left SGI to start a company with the kid who built this."
+
+Jim Clark. SGI's founder. The man who'd built the company where Marc Hannah's vision became reality, where I'd found belonging without having to perform.
+
+And now he was leaving to build the future.
+
+**Late 1994 - Coffee in Palo Alto**
+
+Jim Clark sat across from me at a Palo Alto coffee shop, leaning forward with the intensity of someone who'd already seen what was coming.
+
+"The inventor is Marc Andreessen," he said. "Brilliant kid. We're going to change the world, and I want you to join us."
+
+My heart raced. Jim Clark was inviting me to be part of what would become Netscape. The company that would take Mosaic and turn it into the browser that defined the internet's first era.
+
+"I'm not going to let the VCs get rich off my efforts again while the founders get nothing," he said, leaning forward. "This time, we keep control. The founders will do well. I'm bringing the best from SGI—Kipp Hickman, Michael Toy, programmers who can actually build this thing."
+
+I thought about what I'd just built. Streaming video with full VCR controls. Technology a decade ahead of its time. I knew how to build complex systems, debug impossible problems, ship production code.
+
+But I knew nothing about networking. Nothing about client-server computing. Nothing about user interface design.
+
+The fear crept in: Could I really add value, or would I be exposed as a fraud?
+
+I had two young kids. A wife navigating the pressures of being a Black female physician. A mortgage. SGI offered stability, health insurance, a steady paycheck.
+
+Jim was offering the unknown. A startup that might fail. No safety net.
+
+"I'm honored you thought of me," I said carefully. "But I have to stay at SGI right now. Family obligations."
+
+Jim nodded, understanding but disappointed. "If you change your mind..."
+
+I didn't change my mind.
+
+Kipp Hickman joined. Michael Toy joined. Other brilliant SGI engineers joined. They got founders' shares in what would become one of the defining companies of the internet age.
+
+I stayed in the known. Chose safety over vision. Let fear win.
+
+**1994-1995 - Learning to Lead**
+
+The supervisory role felt like learning to code all over again, except I had no compiler to tell me when I was wrong.
+
+Willie C. Hooks had been brought in by Ken Coleman to help build the professional services organization. Willie understood business in ways I didn't—how to package engineering excellence into offerings customers would pay for repeatedly.
+
+They paired me with Malcolm, a manager who tutored me in the language of leadership: "repeatable offerings," "high utilization," "leverage your resources."
+
+My instincts, so reliable in engineering, felt out of tune. I'd been here before—Princeton NSBE presidency, trying to manage peers when I barely understood what management meant.
+
+The technical problems I could solve. The human problems baffled me.
+
+Colette became my coach, helping me navigate the emotional complexity of leadership. When I struggled with a difficult team member, she asked: "What would it look like to be vulnerable with him?"
+
+"Vulnerable?" The word felt dangerous.
+
+"It's not weakness," she said. "It's human."
+
+So I tried it. I sat down with him and said the truth: "I haven't been a manager before, and I'm clearly screwing up. But I believe if we work together, we can both be successful."
+
+He looked at me for a long moment. "Ok."
+
+One word. But something shifted.
+
+Slowly, painfully, I was learning that emotional intelligence mattered as much as technical brilliance. Maybe more.
+
+**1993-1994 - The Search Hits Walls**
+
+Between engineering triumphs and leadership befuddlement, I kept searching.
+
+Law libraries. Legal directories. Probate court requests. Every weekend I could spare, every lunch hour that stretched too long.
+
+Ivy League undergrad around 1960. Law degree from another prestigious university. 6'2", Black, Episcopalian, in private practice somewhere in Michigan.
+
+The criteria were clear. The results were not.
+
+Too many possibilities if I expanded beyond Detroit. Too few concrete leads if I stayed narrow. Every path led to bureaucratic dead ends or missing records.
+
+I could stream The Terminator across a network, decode video in real time, build technology a decade ahead of its infrastructure.
+
+But I couldn't find the man who gave me life.
+

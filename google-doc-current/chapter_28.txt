@@ -1,0 +1,211 @@
+Chapter 28: Swimming with Sharks: Lessons from the Valley
+
+After SGI: Searching for Air (1998-1999)
+
+Silicon Valley measures success in stock options and titles. I measured mine in basketball games. After SGI imploded, I lived at the YMCA, first to arrive, last to leave. My jump shot was terrible, but I could play defense until my legs gave out.
+
+While the others eventually headed back to their offices, I lingered. Without SGI, I had nowhere else to be. No title or corner office could replace being with my boys, Vince, Kirk, and James. As I sought out games at every gym in the Bay Area, I was really searching for what I'd lost: purpose, belonging, identity.
+
+This personal drift mirrored the Valley's own precarious moment. The NASDAQ soared to unprecedented heights, but I could feel the instability underneath. Companies without viable business models received unprecedented funding based on little more than ".com" in their names. When the bubble burst in March 2000, I lost my kids' college tuition along with everyone else's dreams.
+
+The boom had become a bust just as I was recalibrating life after SGI. In that chaos, Vince called.
+
+"Derrick! NetApp needs a VP. I've already put your name in, and you know the founder."
+
+"Dave Hitz? We sat side-by-side in Tarjan's grad class at Princeton," I said.
+
+"Exactly. Send Dave an email."
+
+Network Appliance: The Costume I Wore (1999-2001)
+
+The security guard cocked an eyebrow as he snapped my badge photo on Day 1 at Network Appliance. Sport coat, silk tie, shoes polished the way Dad taught me: I'd dressed to announce myself. At SGI everyone wore jeans; here, I was so excited to be an executive of a public company!
+
+But the suit wasn't about blending in—it was armor. I'd spent years at SGI watching other people get promoted while I waited for recognition. Now I had the title I'd craved, and I was going to wear it like a uniform. The problem was, I was dressing for the wrong war.
+
+NetApp wasn't another loose-burning dot-com. It ran on efficiency, teamwork, and a flat culture that prized substance over show. My urge to be visibly "in charge" was about to collide with a team that measured authority by results, not by the cut of my jacket.
+
+Later that first day, Chris, the Senior Vice President of Human Resources, called me into her office.
+
+"Most management hires from SGI do not perform well here," she said, studying my face.
+
+"Why is that?" I asked.
+
+"I don't know, Derrick." She shrugged, but her eyes held mine a beat too long.
+
+What the hell? I had just accepted the job, and here was the head of HR telling me people like me don't fit in—and she couldn't even tell me why? I don't know if I was more afraid of failing than I was angry that she offered me no real help!
+
+My new staff gathered in the conference room that afternoon. Six middle managers, all eyeing me with varying degrees of skepticism. One cleared his throat, his Michigan accent sharp as he announced:
+
+"I interviewed for this position twenty-seven times."
+
+The words hung in the air. Surely he was exaggerating, right? But exaggeration or no, I knew I had a problem on my hands. Here was a white guy from the Detroit area working for a Black man, probably for the first time in his life, and one who had taken the job he knew should be his. This was going to be fun. Not!
+
+I flashed back to high school, to the day I got into Princeton while our valedictorian didn't. Same energy, different conference room. I was the outsider again, the one who didn't earn his place through the proper channels.
+
+"Derrick, please get together with some folk here and put together a proposal for a summer internship plan," Dave directed me at his staff meeting.
+
+My heart lifted—finally, something I was confident I could nail. I'd been recruiting top talent for years. The following week, I strode into the staff meeting with confidence.
+
+"Derrick, you're up. What do you all propose?"
+
+"Here's what I propose," I started, pride evident in my voice.
+
+"Derrick, who was on the team with you for this proposal?" Dave interrupted.
+
+"Uhh, no one. I did this last night. I didn't..."
+
+"Stop. You missed the most important part. I don't want to hear what you propose!"
+
+Silence swallowed the room. Heat rushed to my cheeks as the truth cut deep: I had procrastinated. A recruitment plan for summer interns? I had done that several times at SGI. I only needed an hour to draft the slides. I grabbed that hour just in time before the staff meeting.
+
+Each morning after that, my stomach tightened as I walked into the building. I was drowning in plain sight, and my lifeline was Connie, my new executive assistant. She was like a cultural translator, helping me navigate currents I kept missing.  Can you give an example?
+
+You don't select a child like a pair of shoes. Dad's words echoed in my mind, but at NetApp, that's exactly how it felt—like I'd been chosen for the wrong reasons, a poor fit trying to force my way into a culture that valued collaboration over individual performance.
+
+When I made decisions without consulting my team, when another direct report resigned in protest, I realized I was replicating the exact patterns that had always left me alone.
+
+Then came the meeting. Dave and I had our regular one-on-one scheduled, but when I opened his office door, Chris from HR sat waiting. I'd orchestrated dozens of these final meetings from the other side, but this was my first time being fired.
+
+"Derrick, your position has been eliminated," Dave began, then paused, his expression softening. "Derrick, I don't know what it is," he continued. "I really thought you'd be a good fit here."
+
+In his awkward attempt at kindness, I glimpsed genuine regret—but neither of us knew how to bridge our different worlds. The cruel irony wasn't lost on me: at SGI, my technical expertise had been the foundation of my advancement, but at NetApp, I had abandoned that strength in pursuit of executive identity. Somehow, in moving up the ladder, I'd forgotten what had helped me climb it in the first place.
+
+Trovix: When Trust Breaks (2001-2003)
+
+"Jeff! What are you doing here?!" I shouted at the Stanford Alumni job fair, spotting a familiar face that transported me back to freshman year. Jeff's voice and competitive edge hadn't changed since our Princeton debates.
+
+"Derrick, my new company is named Trovix."
+
+He had me at "new company." Jeff was also housed in Dodge Osborn Hall during my freshman year. He was a year older. I trusted Jeff and wanted in.
+
+This time, I approached the challenge differently. No executive posturing, just hands-on technical problem solving. I developed breakthrough technology that could read between the lines of resumes, recognizing meaningful patterns and connections that traditional systems missed.
+
+But we needed funding, and without a customer, no investor would bite. When our pitch to Yahoo failed, Jeff and Earl had been bootstrapping for three years, and the strain was showing.
+
+"Jeff, you don't have funding, but I've contributed something fundamental. I'd like to be treated as a founder. All I want is 15%."
+
+Jeff looked away and inhaled. The body language told the story. His voice cracked: "Derrick, we value you, but we've been at this for three years. We can't offer 15%."
+
+I was extremely disappointed. I knew that my contribution was significant, and was just the tip of the iceberg. That day would never come.
+
+How many??Years later, in 2008, my phone buzzed while I sat in traffic on 101. The headline read: "Monster Acquires Trovix for $75M."
+
+My hands tightened on the steering wheel. The technology I'd created was now worth millions to someone else. After paying off investors, my theoretical share amounted to about $4 million that I'd never see.
+
+I didn't see it as betrayal. I saw it as Silicon Valley greed, placing money over relationships, and I resented it. Just like I'd been doing with Gina and the kids—prioritizing achievement over connection, letting walls protect my interests while relationships crumbled around me.
+
+I thought about Marcia's explosive emails, her fear that everyone would eventually leave her. Maybe she wasn't paranoid after all. Maybe she'd just learned, like I was learning, that trust is a luxury you can't always afford.
+
+Google: Recognizing My Own Reflection (2004)
+
+I swung into the Googleplex, the same buildings I'd known at SGI, only the signs had changed. The interview process began immediately.
+
+"So, what ideas do you have to expand our business?" one interviewer asked.
+
+"It would be cool to be able to search video as easily as text."
+
+"Well, that is obvious!" he said derisively.
+
+Another room, another interviewer: "That's an interesting approach," he smirked at my system design. "But clearly not as elegant as..."
+
+By the seventh interview, my jaw ached from forcing smiles. These weren't conversations; they were performances. Each interviewer seemed more interested in showing their brilliance than understanding mine.
+
+After the interviews concluded, I had to wait a couple of weeks for Google's "interview committee" to meet. Then I got a call from the office of Alan Eustace asking for a meeting to present me an offer! Alan Eustace sat behind a desk piled with hardware prototypes.
+
+"Derrick, we'd like you to join as a director of engineering."
+
+Director? I'd just been a VP at NetApp. The demotion stung, but the compensation package was very attractive. What could go wrong?
+
+And then it hit me: I was looking in a mirror.
+
+This was me in Detroit, dismissing people with poor grammar. This was me at Princeton, driving my teammates well past the finish line. This was me ignoring Mike K on our projects because I wanted everyone to see that our project, my project, was so vastly superior to theirs. This was me at my worst.
+
+The arrogance that had cost me at NetApp—the suit, the solo proposals, the assumption that intelligence equaled authority—I was seeing it reflected back at me. These Googlers were performing the same superiority I'd worn like armor for years.
+
+"Tell me, are the seven persons who I met during the interview process typical of those within Google engineering?" I asked the recruiter.
+
+"Yes, definitely."
+
+My heart raced. The smart people at SGI had been humble. These people? Not even close. But hadn't I been just like them?
+
+"Then I must decline the offer."
+
+A year later, Google acquired YouTube for $1.65 billion—the same idea I'd suggested and they'd dismissed as "obvious."
+
+"You could have been part of that," Gina noted when the news broke.
+
+"Yes," I replied, "but I've learned something more valuable than money."
+
+The potential wealth weighed on me for weeks. But for the first time in my career, I'd chosen environment over opportunity, substance over status. It felt like the first authentic decision I'd made in years.
+
+
+
+Orbital Data: Finding Balance (2004-2006)
+
+Eight AM. Steam rose from my coffee at my regular spot, one short mile from the Orbital Data office. Close enough for lunchtime basketball, close enough to be home for dinner.
+
+"Sesame bagel with butter, Derrick?" Brad the barista asked.
+
+"Yes please! Thank you, Brad."
+
+Sometimes the best moves aren't the biggest ones.
+
+With only 40 employees, most in engineering reporting to me, managing felt effortless. The technical stuff was new, but this time I dove deep, asking question after question instead of pretending to know.
+
+"So the window size affects..." the technical co-founder started.
+
+"I got that," I interrupted, drawing my own diagram. "But what about the control algorithm?"
+
+He grinned, grabbing his whiteboard marker. He loved teaching, and I loved learning. This was nothing like the Google interviews where everyone had to prove how smart they were.
+
+For the first time in years, I felt the satisfaction of authentic connection. The team didn't care about my title, but they respected my curiosity. When I suggested improvements, engineers would nod and take notes rather than posture.
+
+But in summer 2004, the calm waters grew choppy. Two VPs had been pushed out, and I was next.
+
+"Derrick, things are not working out," the CEO told me during our one-on-one. "It's time for you to go."
+
+An odd calm settled over me. This wasn't like NetApp—no panic, no resentment. I felt control.
+
+"Have you discussed this with the board?" I asked calmly.
+
+"No," he said, clearing his throat.
+
+One word. That's all I needed. The CEO gave me leverage. A month later, I had my job back and an ironclad severance agreement with financial kickers.
+
+
+
+
+
+
+
+Citrix: Building My Own Table (2006)
+
+"Citrix has signed a Memorandum of Understanding stating their intent to acquire Orbital Data," the internal email announced. As a VP with 1% equity, I'd ensured my severance agreement included immediate vesting upon change of control.
+
+"Derrick, can you please sign your Citrix job offer so we can close the acquisition?"
+
+"No."
+
+"What do you mean 'no'?"
+
+"The offer is insufficient. It's only marginally better than what I'd receive if I declined it."
+
+"You don't understand how this works, Derrick." The CEO's voice cracked.
+
+I thought about Trovix, about technology in my name worth millions to someone else. About NetApp's cultural drowning. About Google's arrogant certainty.
+
+"No," I said, allowing myself a small smile. "You don't understand. My options accelerate on change of control with no other requirements."
+
+The CEO turned red as he rushed out to review the document he'd recently signed.
+
+This time, I knew exactly how deep the water was, and I was wearing a life jacket I'd designed myself. No drowning this time.
+
+The pattern was finally clear. For years, I'd been chasing belonging through performance—the perfect grades for Mom's approval, the VP title for professional validation, the technical brilliance to prove my worth. Each time, I'd built walls to protect myself, then wondered why I felt so isolated.
+
+But here at Orbital, something had shifted. Instead of demanding recognition, I'd earned respect through curiosity. Instead of protecting my turf, I'd shared knowledge. Instead of chasing status, I'd chosen environment.
+
+I was back to being the technical leader I was at Princeton, but now with political knowledge.
+
+The acquisition closed, my equity vested, and I walked away with both financial security and something more valuable: the knowledge that authentic connection mattered more than any title or stock option. It had taken years of failures to learn what Gina had been trying to teach me all along—that the walls I built to protect myself were the same walls that kept me from the love and belonging I was seeking.
+
+The lesson wasn't just about business. It was about life.

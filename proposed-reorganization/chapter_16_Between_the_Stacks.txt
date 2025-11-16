@@ -1,0 +1,137 @@
+Chapter 16: Between the Stacks
+
+**1991 - Redwood City Law Library**
+
+Legal directories spread across the library table in Redwood City, alphabetized lists of Michigan attorneys stretching back decades. I ran my finger down each column, searching for a pattern that matched the probate court description: Ivy League undergrad around 1960, law degree from "another prestigious university," 6'2", Black, Episcopalian, in private practice in Michigan.
+
+My lunch hour had become a methodical hunt through paper records. Between morning code reviews and afternoon debugging sessions, I'd drive to the law library, pull volumes from the shelves, and scan names.
+
+On weekends, when Gina had both kids, I'd take longer trips. Back to Detroit. More libraries. More directories.
+
+The difference was clear: at SGI, my obsession produced working software. In law libraries, it produced only absence from my family.
+
+"Do what you need to do," Gina had said, standing in the doorway as I gathered my notes.
+
+I took her words at face value.
+
+**Months After SIGGRAPH Reviews - Alan's Paper Theft**
+
+"Alan submitted a paper to SIGGRAPH. Did you know about that?"
+
+Dan stuck his head in my office with the question.
+
+"What? No I didn't!"
+
+I walked to Alan's office. He wasn't there. But when the preprint arrived, I got my answer.
+
+There it was—our algorithm, the one I'd spent months implementing, debugging, perfecting. Alan had contributed some basic theory, sure, but theory alone doesn't make software run. Every technical detail matched what we'd built together.
+
+But under the title, only Alan's name appeared.
+
+I stood there holding the paper, feeling heat rise in my chest. The same SIGGRAPH conference where I'd been reviewing papers—judging the work of others—and Alan had submitted our shared work as his own.
+
+I kept my mouth shut, not quite sure where I stood, but knowing any drama from me would only damage my reputation.
+
+A colleague, seeing my distress, offered advice I never forgot: "Don't wrestle with a pig; the pig will like it, and you'll only get dirty."
+
+So I swallowed my rage and buried the disappointment. Each time I saw Alan on campus, that familiar anger surged.
+
+Even success in Silicon Valley, I realized, came with a bitter aftertaste.
+
+Alan left SGI a year later. Gradually, I learned to let the burden go. But the lesson stayed: I had arrived at SGI thinking good work spoke for itself. Now I was learning there was an unwritten rulebook everyone else had read, rules about credit and politics and self-promotion that had nothing to do with technical excellence.
+
+At the same time I was searching legal directories for a birth father I'd never met, I was learning that even in Silicon Valley's supposed meritocracy, credentials and technical brilliance weren't enough.
+
+**November 5, 1992**
+
+Jamil arrived with an infectious laugh that could transform my darkest moods, earning his nickname "Mr. Smiley" almost immediately.
+
+Where Maya demanded attention with the intensity she'd shown from birth, Jamil absorbed the world around him, simultaneously curious and cautious. Maya's eyes had found mine with that gravity of recognition. Jamil's eyes watched, assessed, smiled.
+
+By May 1993, the photo would show him in all his glory: "Mr. Smiley, Baby Jamil Burns," the caption would read.
+
+But in November 1992, holding my son for the first time, I felt the same visceral connection I'd felt with Maya, and the same uncomfortable question.
+
+I had two biological mirrors now. Two faces that looked like mine. And I still didn't know where that face came from.
+
+Parenthood offered no clear parameters like my work at SGI. Maya's demands interrupted the mental focus that made me successful professionally. Now Jamil's needs would compound that. While debugging code required uninterrupted thought, parenting demanded constant context-switching and emotional presence I hadn't yet learned to provide.
+
+At work, I could compile code and see immediately if it worked. At home, I had no idea if I was succeeding or failing as a father. The feedback loop was years long, the metrics unclear.
+
+**1992 - Gina's Challenges**
+
+One evening, after a particularly grueling shift, Gina dropped her hospital bag and leaned against the kitchen counter.
+
+"Doctor Coleman asked if I was 'planning to stay committed' after having the kids," she said, her voice flat. "As if motherhood was some kind of professional weakness."
+
+I looked up from the code I'd brought home to review.
+
+She was juggling a demanding medical career while raising our kids, navigating a world where someone like her—Black, female, working mother—wasn't who her colleagues pictured when they thought "doctor."
+
+I saw her exhaustion. I saw her quiet defiance.
+
+I admired her strength but didn't know how to truly support her.
+
+What I didn't see, what I wouldn't recognize for years, was that while she fought those battles at work, she was also managing our household, caring for two young children, and supporting my obsessive search for birth parents who had given me away.
+
+She carried all of it. And I admired her for it, then went back to my code.
+
+**Early 1993 - Time Warner's Full Service Network**
+
+Time Warner called with a vision: interactive television. The Full Service Network would launch in Orlando—movies on demand, pause and rewind live TV, technology that barely existed yet.
+
+I became team leader, building the software to make it work. We were turning expensive SGI workstations into set-top boxes, building tomorrow with technology that wasn't ready.
+
+We thrived on the impossible challenge.
+
+But while I was building the future of television, I was still searching the past in legal directories. One produced breakthrough technology. The other produced only frustration and Gina's silent endurance.
+
+**January 1993**
+
+The photo caption would later read: "Baby Maya looking out for Baby Jamil, c. January 1993."
+
+At two years old, Maya was already taking on the role of big sister, watching over her four-month-old brother with that same intensity she'd shown since birth.
+
+Gina managed both of them. Fed them, changed them, soothed them when they cried. Navigated the demands of Kaiser while managing our household.
+
+I was at SGI, building interactive television. Or at the law library, searching for a dead man's name in legal directories.
+
+**May 1993**
+
+The family photo from May shows us all gathered: "Rev. Doctor Charles Morton, Doctor Gina Gregory Burns, Derrick Burns, Mrs. Willa Burns, David Burns (Jala McKenzie Burns), Mrs. Mildred Rogers, and Mrs. Virginia Donaldson, c. May 1993."
+
+The caption is what caught my eye years later: "David Burns (Jala McKenzie Burns)."
+
+By May 1993, Dave's transition was visible enough to appear in photo captions, parenthetical but present. My brother was on his journey to authentic identity, finding himself, becoming who he'd always been.
+
+I was on a different journey, searching for biological identity in legal directories and library stacks, trying to find out who I was by discovering who had made me.
+
+Two brothers, two searches for self. Dave's was internal, a claiming of truth. Mine was external, an archaeology of origins.
+
+But we were both searching.
+
+**End of 1993**
+
+By the end of 1993, three threads were interweaving in my life:
+
+At work, we were building streaming video with full VCR controls—Netflix before Netflix, technology ahead of its infrastructure.
+
+At home, Gina was managing two young children, a demanding medical career, and a husband who was physically present but emotionally elsewhere.
+
+And in law libraries between Mountain View and Detroit, I was searching through directories, chasing fragments of information about a 6'2" Black Harvard lawyer I'd never met.
+
+I told myself the search was about answering questions for my children. About medical history. About completing the puzzle.
+
+But the truth, the one I couldn't articulate even to myself, was simpler: I needed to know.
+
+Not for Maya. Not for Jamil. Not for some practical reason.
+
+I needed to know where I came from. Who the people were who made me, then gave me away.
+
+And no amount of professional success, no loving wife, no beautiful children who looked like me, could satisfy that need.
+
+The search had become its own obsession, as consuming as any code I'd ever written. More consuming, because unlike code, I couldn't debug it, couldn't force it to yield answers, couldn't control the outcome.
+
+All I could do was keep looking. Keep searching. Keep hoping that somewhere in those legal directories, in those library stacks, in those archives, I'd find the name that would finally answer the question:
+
+Who am I?

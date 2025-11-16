@@ -1,0 +1,334 @@
+Chapter 21: Beyond the Algorithm: How Technical Excellence Wasn't Enough
+
+1993
+
+"No one has ever done this before."
+
+Marc's whispered words, half in French, half in awe, filled the cramped demo room as The Terminator's face froze mid-sentence on our monitor. With a click, I rewound the scene. Another click—fast forward. Pause. Play.
+
+We had built Netflix in 1993, a decade before it would exist. We weren't even sure we could make it work, but Frank and I had made it work.
+
+"Frank!!! You are the man!" I shouted, unable to contain my excitement.
+
+"Naw, you are DB," Frank responded with his slight New York/West Indian accent.
+
+Learning the Rules (1990–1992)
+
+By 1990, I had established myself as a respected software engineer at Silicon Graphics. The proof sat right there on my desk: a stack of SIGGRAPH conference paper submissions waiting for my review. SIGGRAPH was the Olympics of computer graphics—and they were asking me to judge the competition. The irony wasn't lost on me.
+
+Between compile runs, I'd pull another paper from the stack, scribbling notes in the margins. Some were brilliant, others barely coherent. This was the life I had dreamed of: being at the cutting edge of technology, my opinions valued, my expertise recognized.
+
+That recognition, however, proved more complicated than I expected. Months after completing the paper reviews, Dan stuck his head in my office.
+
+"Alan submitted a paper to SIGGRAPH. Did you know about that?"
+
+"What? No I didn't!"
+
+I walked to Alan's office. "Did you really submit a paper without my knowledge?"
+
+He wasn't there, but I got my answer when I received a preprint. There it was—our algorithm, the one I'd spent months implementing, debugging, perfecting. Alan had contributed some basic theory, sure, but theory alone doesn't make software run. Every technical detail matched what we'd built together. But under the title, only Alan's name appeared.
+
+I kept my mouth shut, not quite sure where I stood, but knowing any drama from me would only damage my reputation. A colleague, seeing my distress, offered advice I never forgot: "Don't wrestle with a pig; the pig will like it, and you'll only get dirty." So I swallowed my rage and buried the disappointment. Each time I saw Alan on campus, that familiar anger surged. Even success in Silicon Valley, I realized, came with a bitter aftertaste. Alan left SGI a year later, and gradually, I learned to let the burden go.
+
+Still, I was beginning to see that SGI wasn't as straightforward as I'd believed. I had arrived thinking that good work spoke for itself, but now I was watching office politics unfold in real time. I kept quiet about Alan's theft to avoid being labeled difficult, but the experience shook my belief that technical excellence was all that mattered. There seemed to be an unwritten rulebook everyone else had read.
+
+The Vision (Early 1993)
+
+Television in 1993 was completely passive—you watched whatever was on, when it was on. No pausing, no skipping, no control. The idea that you could browse movies like a menu, hit pause, rewind, or fast-forward sounded like science fiction.
+
+Then Time Warner called. They had a vision, and they wanted SGI to help build it.
+
+Their project was called the Full Service Network, and it aimed to be the first true interactive television platform. It would launch in Orlando, Florida, and beam digital content—movies, games, shopping, educational programming—into thousands of homes over a fiber-optic network.
+
+We were building tomorrow with technology that barely existed, turning $5,000 SGI workstations into set-top boxes when standard cable boxes cost under $250. But we weren't building for cost—we were building to prove it was possible.
+
+I was the third engineer on the team and there from the beginning. As the project grew, so did my role as the team leader building the software that would make it all work. I interviewed hundreds of candidates, often serving as the closer because I was best at selling SGI's culture. And I meant every word—I loved working there.
+
+Kirk introduced me to his friend Frank, someone he knew from his East Coast days. Frank and his wife Celeste were ready for a change, and he was a perfect fit: always smiling, endlessly positive, and adaptable, the kind of person who thrived in SGI's unstructured chaos.
+
+I also tapped the most talented engineer I knew at SGI: Kevin P. Smith. 
+
+“Seem ambitious,” Kevin said, echoing the sentiment he expressed toward another previous project that I had undertaken.
+
+“Yep,” I chuckled, “this one is too, but I need your help to build it.”
+
+Kevin, Steve, Sunita, Frank, and I became a team. We thrived on the challenge of building software for what we hoped would become the set-top box that changed everything.
+
+Breaking Through the Impossible
+
+"Derrick man, I can't get this driver to work," Frank said one afternoon, frustration evident as he struggled with the video hardware.
+
+He was tenacious, spending hours trying everything he could think of. I looked at the code—it was clear Frank was exhausting every possibility, but he had no idea how to make it work. Neither did I! I was awestruck by his persistence, but after a while I grew frustrated watching him hit the same walls.
+
+Frank just smiled, saying "This is all messed up, man. Lol."
+
+"Let's contact the manufacturer to see if we can get better documentation," I suggested.
+
+Two weeks later, Marc, the designer of the chip we needed, flew in from France! We were his first customer, and he needed proof his creation could work in the real world. His thick accent and nervous energy filled our cramped lab as we walked him through our setup.
+
+Within days, we had it running. Frank demoed The Terminator playing through Marc's chip. Marc was stunned.
+
+"No one has ever done this before," he said, watching us control the video like it was a local file. "Streaming video in real time with full playback control—pause, rewind, fast-forward, all on demand."
+
+Real-time digital video with full user control, running live on hardware. It was 2007, achieved in 1994.
+
+But the timing was wrong. Set top boxes would get cheaper, but cable companies are slow-moving Mom and Pop operations. It would take decades to run new fiber optic cables. The world just wasn't ready yet.
+
+"What you've built here," our Time Warner liaison said during the final demo, "is twenty years ahead of the infrastructure that could support it."
+
+He meant it as praise, but I heard it as prophecy. Somewhere, someone would build that infrastructure. Someone would make billions bringing our vision to the masses.
+
+Why shouldn't that someone be me?
+
+Learning to Lead (1994)
+
+The Time Warner Full Service Network in Orlando was a rollercoaster—an ambitious, high-stakes experiment to reinvent television. We were a band of dreamers pushing the limits of what was technically possible. The energy was electric. The pace, unforgiving. After leading the team to deliver production-ready software and helping to recruit some of the best talent I'd ever worked with, I was offered a supervisory role.
+
+I should have felt triumphant. Instead, I felt the weight of what we had built, and the world's inability to see it yet.
+
+As the Time Warner project drew to a close and we delivered on our commitments, I grew bored. The project turned from innovation and discovery to execution and incremental improvement. I wanted another mountain to climb, not another railroad track to lay. Wei Yen provided me a path forward and a promotion. I jumped on it, while Frank stayed and delivered interactive TV to media companies from Japan to Europe, attempting to turn our breakthrough software into an installable package that any existing cable company could buy.
+
+My former manager Reuel, 6'5", from Waco, Texas, with a full beard and a full head of long, straight hair combed to the side, was my model of a good team leader. He was caring but direct, focused on results yet never forgetful that we were all human and flawed. He operated with the highest integrity—he never exaggerated, never manipulated. You always knew where you stood with Reuel. I wanted to lead like that, but I didn't yet have his maturity or emotional steadiness.
+
+In this new and challenging role, I found an unexpected haven in Ken Coleman's HR department. Ken, one of the few Black executives in Silicon Valley at the time, had risen through the ranks at Hewlett-Packard before joining SGI. Among his team was Colette McPherson, a perceptive Oakland native who quickly became my coach and confidant.
+
+I stopped by her cubicle regularly. I wasn't wracked with anxiety, but I was facing situations that genuinely befuddled me. My instincts, so reliable in engineering, now felt out of tune in leadership. What used to work no longer did.
+
+I was reminded of my time at Princeton, when I became president of the NSBE chapter. Back then, I had also stepped into leadership expecting competence and drive to be enough. But managing people, especially peers, proved far more complex. That same feeling had returned, only now the stakes were higher, the audience larger, and the margin for error thinner.
+
+One morning, after a particularly tense meeting, I walked into Colette's cubicle, unsure what I even wanted to say. A team member, once collegial, had grown distant and resentful since my promotion.
+
+"He won't even look me in the eye," I told her. "Leans back, folds his arms, looks down his nose like I'm the one who doesn't belong."
+
+Colette didn't flinch.
+
+"Invite him to lunch. One-on-one," she said. "Tell him you value his experience. Be honest about your challenges. Humility can be disarming."
+
+So I did. And it didn't work, at least not at first. The first few lunches were stiff, awkward. He stayed guarded, and I kept second-guessing myself. But I persisted. I named the tension, owned my discomfort, and gradually, he softened. We didn't become friends, but we became functional. That was a start.
+
+When I told Colette, she smiled. "See? People want to feel valued. The leader doesn't stop being human."
+
+She kept nudging me toward something I didn't understand. I was frustrated. I wanted this guy to recognize my competence, to get over whatever insecurity or resentment he carried. Why couldn't he just fall in line like everyone else?
+
+"How did that lunch go?" Colette asked after my third attempt.
+
+"Better. But I still feel like I'm walking on eggshells."
+
+"Did you tell him you were nervous about managing people?"
+
+I stared at her. "What? No. Why would I—"
+
+"Try it next time."
+
+"Huh? Why would I do that?"
+
+"It's not weakness. It's human."
+
+The next lunch, I broke. Halfway through discussing how we needed to document our APIs, I stopped.
+
+"Look Steve. I really want to make this work. I have not been a manager before, and I am clearly screwing up. You are amazing! You come from Apple, a real software company. I believe that if we work together, we can both be successful. How does that sound?"
+
+He leaned back in his chair, studied me for a long moment. Then something shifted in his expression.
+
+Steve looked at me, studying my face. His hands were still clasped. His lips still pursed. But then he unclasped his hands and rested them on his legs and spoke a single word: "Ok."
+
+For the first time in weeks, he smiled.
+
+Behind the scenes, Ken Coleman continued to shape my development. Perhaps having heard how much I struggled with conflict resolution, he sponsored me for Harvard's Course on Negotiation, where Professor Margaret Neale taught us about BATNA—the Best Alternative to a Negotiated Agreement. It shifted how I thought about leverage and power. Ken also secured me a spot in the Stanford Graduate School of Business / American Electronics Association Executive Institute, where I began to learn how to manage across functions and build relationships with people who didn't think like engineers.
+
+The Opportunity That Would Define Everything
+
+By 1994, the Orlando project had peaked, and so had I. While others still chased the promise of interactive TV, my friend Maynard Holliday introduced me to something far more transformative: the Mosaic web browser.
+
+In an instant, I saw tomorrow.
+
+This wasn't just software—it was a portal. The internet would change everything.
+
+Jim Clark, SGI's visionary and adventuresome founder, saw it too. He left the company to launch Mosaic Communications Corporation, later renamed Netscape, with Marc Andreessen, Mosaic's young co-creator. A few weeks later, over coffee in Palo Alto, Jim invited me to join them.
+
+"Have you heard of Mosaic?"
+
+"Yes, a friend of mine from Lawrence Livermore Labs told me about it."
+
+"The inventor is Marc Andreessen. I am forming a company with him and his team from Illinois. They are moving out here. We are going to change the world. I want you to join us."
+
+That night, while Gina fed the kids, I recounted the conversation.
+
+"What did he say exactly?" she asked.
+
+And I explained. I told her how Maynard had told me about Mosaic. It was so different, so new. I had come to California to build something great. I wanted to show what I could do, and Jim had confidence in me. He had also reached out to Kipp Hickman, Michael Toy, and other amazing programmers from SGI. They were all in!
+
+But I hesitated. I knew nothing about networking or client-server computing, or user interface design. Could I really add value, or would I be exposed as a fraud? What if I stumbled? I had heard Jim criticize others. Bitter about making "only $40M," Jim was determined to keep a big stake in the new company.
+
+"I am not giving this company away to the VCs. The founders will get rich," he promised.
+
+I admired Jim's courage, but how courageous do you need to be if you're already worth millions? I didn't have a financial safety net. Outside of SGI I had no professional network. My Princeton friends were early in their careers too. My Detroit upbringing had taught me to be steady and self-reliant, but steady wasn't going to cut it here.
+
+I was married with kids. I needed to build the net, not just for myself, but for Gina and the children. Every professional decision carried weight. Gina's job at Kaiser gave us reliable income, but I needed to provide just as much. In Silicon Valley, calculated risk was the currency of advancement. For me, risk wasn't theoretical—it was personal. And I wasn't playing with house money.
+
+So I hesitated. Could I afford to fail with two children? I wanted to join so badly, but fear won out. I declined Jim's offer.
+
+The decision haunted me in ways I hadn't expected. Three months after Netscape's IPO, I was at a Blockbuster Video, looking for movies to watch on our VCR. Then it hit me. I had not told Gina everything Jim had said. I was too embarrassed to. But he had told me in no uncertain terms that interactive TV was unimportant, a waste of time, a distraction from what really mattered. Mosaic would change the face of computing much faster and much sooner. I was already using their new browser at home. ITV may be running in Orlando FL in the Time Warner project, but not in the Bay Area where I lived.
+
+But Netscape was building the infrastructure that would make it all possible.
+
+I drove home gripping the steering wheel so tight my knuckles went white, Gina's words echoing: "What's really holding you back?" Not my technical skills. Not the opportunity. Fear. Plain and simple.
+
+On April 9, 1996, Marc Andreessen appeared on the cover of Time magazine. Twenty-four years old. Worth millions. I folded the magazine and put it in my desk drawer, but I pulled it out every few weeks like picking at a scab.
+
+"You see that story about Netscape hitting $3 billion?" Vince mentioned casually one day.
+
+I had. The number felt like a physical weight in my chest. Each dollar of their success felt personal.
+
+Years later I walked out of Kepler's Bookstore, next door to Cafe Borrone where Jim had approached me. I walked up to him, fighting back the deep well of embarrassment and regret I had suppressed for years. He saw me and smirked.
+
+"Hi Jim!"
+
+"Hi Derrick. You should have joined me." He didn't wait for a response. He just walked away, leaving me standing there with the weight of what I'd lost.
+
+And he was right—it had sailed. But I wasn't ready to jump.
+
+Not yet.
+
+The Decline Begins (1995–1998)
+
+Soon after Jim left, so did the magic. SGI's market cap peaked just above $7 billion in 1995. My own tenure crested around the same time, when I was promoted to second-level leadership.
+
+From there, the decline began; more political, more personal, and far less about technical merit than I had imagined.
+
+At SGI, we built Ferraris—beautiful, powerful, expensive. The world wanted reliable Toyotas. Competition came from below—cheaper products—as it almost always does in technology, and SGI was like a deer in the headlights, frozen, as new entrants innovated much faster! I felt like a boat without a rudder, drifting between organizations with no real direction, no clear purpose.
+
+At its peak, SGI wasn't just a hardware company; it was Silicon Valley royalty. Our machines powered the first blockbuster visual effects, drove NASA simulations, and enabled cutting-edge scientific breakthroughs. To work there felt like shaping tomorrow in real time.
+
+A fundamental shift was underway. For years, cutting-edge graphics and simulation work required high-end workstations and supercomputers; custom-built machines that cost tens or even hundreds of thousands of dollars. But by the mid-'90s, that power was migrating to personal computers, which were rapidly becoming cheaper, faster, and "good enough." Instead of buying a specialized SGI machine, customers could now build powerful systems from off-the-shelf parts, and get most of the performance at a fraction of the cost.
+
+Yet many of our customers were locked into SGI hardware, stuck until their systems fully depreciated. Ken Coleman believed a resourceful manager could manage anything, and brought in Willie C. Hooks, who had led professional services for DEC across the entire U.S. West Coast. He knew how to design, package, and deliver services to enterprise customers just like ours; complex environments, high expectations, and no room for failure.
+
+Ken carved out a new role for me; not managing engineers, but serving as a General Manager with full profit-and-loss responsibility. It was a world I knew nothing about.
+
+Seeing that, Willie paired me with Malcolm Jones, a seasoned professional services expert and former colleague; another Black man who had walked this road before me. Willie encouraged me to hire him as my personal tutor. I was stunned by this level of investment, and grateful.
+
+"Repeatable offerings," Malcolm said, sketching on the whiteboard. "Plus high utilization. That's the formula."
+
+I nodded, taking notes. It sounded simple.
+
+"So, what do we do with our current offerings. From what you are telling me, they are not repeatable, so we have no way to project how much they will cost us to deliver. We need to get rid of them?"
+
+"Right, now you get it."
+
+"But what do we offer instead?"
+
+"That is exactly the challenge! I can't tell you that."
+
+Malcolm stopped writing. "Derrick, what happens when the next customer wants it to work with their different network setup?"
+
+"We... modify it?"
+
+"And the one after that wants a different user interface?"
+
+"We modify that too?"
+
+"And pretty soon you're back to building custom solutions for everyone. No repeatability. No scalability." He turned to face me. "What's your utilization rate when every project is unique?"
+
+I stared at the whiteboard, the math becoming clear. "It's terrible. We're constantly reinventing everything."
+
+"Now you're getting it."
+
+I understood the theory, but I had no idea how to put it into practice. My problem: I had spent no time with real customers. Blake had. And listening to him wax poetically about the Hollywood meetings that he had, exposed wounds I didn't know I had. When Blake walked into a room, he owned it. A survivor of a transplant, Blake had an insight that I could not begin to grasp. He needed no one else's affirmation, and this confidence gave Blake the ability to paint visions of tomorrow. As an engineer, I found his visions fantastic, but not in a good way. Rather, I judged them as flights of fancy, and whispered as much in private.
+
+Ken noticed.
+
+One day, waiting for the elevator, he called me out.
+
+"Derrick," he said, voice low and firm, "we need to talk about your behavior."
+
+"What do you mean?" I asked, already bracing.
+
+"Your anger. Your mistrust of colleagues. These men are your allies."
+
+"But Ken—"
+
+He cut me off, pressing a finger into my chest. "You don't lash out just because you feel anger. Know yourself. Control yourself."
+
+The elevator opened, and Ken stepped inside, leaving me shaken but newly clear-eyed.
+
+His words cut deep. Something was building in my chest—familiar heat, the same anger I'd felt watching Alan walk away with my work. But this time it had nowhere to go. Ken was right, and I knew it.
+
+Later that day, I saw Ken by the elevators again. He must have seen something in my expression because he spoke quietly.
+
+"Derrick. What are you really angry about?"
+
+I struggled to find words. "I don't know how to do this."
+
+"Blake gets the Hollywood meetings because he knows how to talk to those people. Malcolm understands P&L because he's done it for twenty years. These aren't your enemies. They're showing you what you need to learn." I stood there alone, watching my distorted reflection in the polished wall, feeling smaller than I had since my first day as an intern. In engineering, I'd always known exactly where I stood; my code worked or it didn't. But here, I was flailing, and instead of asking for help, I was lashing out at people who had what I wanted.
+
+That night, I wanted to call Blake. I knew I owed him an apology. But I was too ashamed to pick up the phone. When I saw him at work, I made it a point to be kind and deferential. Blake deserved my respect, but I was too fragile to be vulnerable.
+
+In 1996, my former engineering sponsor Wei Yen left SGI to start his own company. But Wei was more than a sponsor; he had championed my work, opened doors, and helped me earn credibility in rooms where I might not have been invited otherwise. I reached out to explore potential opportunities, assuming our shared history would at least merit a conversation. His dismissive response caught me completely off guard.
+
+"Why are you calling me?" he scoffed.
+
+His tone made it clear: I wasn't on his level. I recoiled, hurt and surprised.  Did you answer or just hang upt?
+
+The sting lingered. I had believed our professional relationship meant something, that the code I'd written, the problems I'd solved, had earned a baseline of respect. His rejection forced me to confront an uncomfortable truth: my perception of workplace relationships often diverged from reality.
+
+My mind flashed back to our first meeting, years earlier, long before LinkedIn or social media made people visible on demand.
+
+"Are you Derrick?" he asked, clearly surprised.
+
+"Yes," I replied, already aware of his reputation.
+
+"I expected an old white man," he admitted.
+
+"I hope you're not disappointed," I joked.
+
+"No," he chuckled. "Just surprised."
+
+Now, after that abrupt phone call, I found myself questioning the sincerity of that first encounter. Had Wei been genuine? Or just strategic? The lessons of Detroit echoed clearly: stay vigilant, trust carefully.
+
+As SGI's stock slid, Hollywood stopped calling. No more magazine covers. No more being the coolest tech company in town. We were yesterday's news.
+
+The End of an Era
+
+Weeks later, Vince walked into my office and dropped into a chair.
+
+"I'm leaving too," he said.
+
+"When?" I asked, stomach already tightening.
+
+Each departure now felt like a betrayal, even if I knew better. My chest tightened every time someone knocked on my door. Vince wasn't just a colleague; he was part of my foundation at SGI.
+
+"End of the month," he said. "Did you see the stock?"
+
+I checked. $15.75. Just three years earlier, it had been $45. Each dollar lost felt personal.
+
+It felt like watching a slow-motion collapse. First Howard, then Jim, then Marc. A steady drip had become a flood. Each goodbye carved away another piece of what I thought I was building. And with each departure, the truth got clearer: my time was ending too.
+
+SGI had become more than a job; it was a mirror, a proving ground, a second home. Leaving felt like an identity fracture.
+
+After two failed attempts at internal transfers, I found myself seated across from Ken's HR rep, negotiating my severance. Twelve years after arriving as a summer intern, I was leaving as a General Manager..
+
+I paused at the doorway to my office one last time. My books, technical journals, the entire "Derrick Burns branch" of the SGI library, were packed into boxes. I carefully placed my O2 project plaque—commemorating our groundbreaking sub-$20,000 workstation—on top, next to family photos.
+
+As I rolled the boxes toward my car, wheels squeaking across once-lively floors, I passed conference rooms that used to ring with debate and laughter. The halls were quiet now.
+
+Fired. Shaken. I took stock.
+
+I needed redemption. A second wind. Silicon Valley still held possibilities, if I could learn what it had tried to teach me.
+
+SGI had been my rollercoaster—thrilling, terrifying, transformative. I arrived believing talent would carry me. I left knowing it never would.
+
+At my car, I loaded the final box. On top sat a photo of Marc Hannah and me—two engineers who helped shape the foundation of modern computer graphics.
+
+As I pulled away, I felt the weight of a chapter ending.
+
+A chapter I hadn't expected to close.
+
+
+
+
+
+
+
+Doctor Marc Hannah and Derrick Burns
+c. 2023
