@@ -1,4 +1,4 @@
-Chapter 17: What Excellence Can't Buy
+Chapter 16: What Excellence Can't Buy
 
 **1993 - The Breakthrough**
 
@@ -74,7 +74,7 @@ But I knew nothing about networking. Nothing about client-server computing. Noth
 
 The fear crept in: Could I really add value, or would I be exposed as a fraud?
 
-I had two young kids. A wife navigating the pressures of being a Black female physician. A mortgage. SGI offered stability, health insurance, a steady paycheck.
+I had two young kids—Maya, four years old, and Jamil, two. A wife navigating the pressures of being a Black female physician. A mortgage. A 900-square-foot apartment in Mountain View that already felt too small. SGI offered stability, health insurance, a steady paycheck.
 
 Jim was offering the unknown. A startup that might fail. No safety net.
 
@@ -84,7 +84,23 @@ Jim nodded, understanding but disappointed. "If you change your mind..."
 
 I didn't change my mind.
 
-Kipp Hickman joined. Michael Toy joined. Other brilliant SGI engineers joined. They got founders' shares in what would become one of the defining companies of the internet age.
+**That Evening**
+
+I told Gina about Jim's offer over dinner, after the kids were in bed.
+
+"What did you say?" she asked.
+
+"I told him no."
+
+She looked at me for a long moment. "Trust your instincts," she said.
+
+She could see I felt unsafe following Jim Clark into the unknown. She didn't say it directly, but it was clear: we had a family now and needed stability. I had just gotten a promotion and was well-respected at SGI.
+
+Stay.
+
+So I stayed.
+
+Kipp Hickman joined Netscape. Michael Toy joined. Other brilliant SGI engineers joined. They got founders' shares in what would become one of the defining companies of the internet age.
 
 I stayed in the known. Chose safety over vision. Let fear win.
 
@@ -114,17 +130,71 @@ One word. But something shifted.
 
 Slowly, painfully, I was learning that emotional intelligence mattered as much as technical brilliance. Maybe more.
 
-**1993-1994 - The Search Hits Walls**
+**1994-1995 - The Durhams**
 
-Between engineering triumphs and leadership befuddlement, I kept searching.
+Our next-door neighbors on the second floor of our garden-style apartment building became lifesavers. The Durhams had three kids of their own—two older than Maya, one younger than Jamil. While Gina and I worked, they cared for Maya and Jamil like family.
 
-Law libraries. Legal directories. Probate court requests. Every weekend I could spare, every lunch hour that stretched too long.
+The kids were like siblings, running between apartments, sharing meals, growing up together. I could feel it: the Durhams loved Maya and Jamil. Not just childcare. Love.
+
+Maya, at four, was very active, strong and tall for her age, a force of energy. Jamil earned his nickname "Mr. Smiley" with his quiet, happy demeanor.
+
+But I remember a day when Jamil was not smiling.
+
+**An Afternoon in the Apartment**
+
+He sat in the baby swing in the corner of our living room, rocking back and forth, crying. Maya was talking, her voice filling the 900 square feet of our apartment. Gina was in the kitchen, cooking dinner after a long shift at Kaiser.
+
+I sat at the table, trying to focus on work I'd brought home. Code reviews. Technical specifications.
+
+The crying. The talking. The clanging of pots. The swing creaking.
+
+The stimulus was unbearable. The walls were closing in on me.
+
+If I did not get out, I would lose my mind.
+
+I stood up, grabbed my keys, muttered something about needing air, and left.
+
+Gina glanced at me as I walked out. She didn't say anything. She just turned back to the stove, shifted Jamil to her other hip, and kept cooking.
+
+**1994-1995 - Gina Builds Something New**
+
+While I was learning to lead at SGI, Gina was building her own vision at Kaiser.
+
+She had passed the Boards, and her panel of patients was growing. She saw an opportunity to have an impact.
+
+San Francisco had large populations of Chinese and Spanish-speaking patients. The Chinese community was well-organized, thanks to a substantial number of Chinese-American doctors. But Spanish-speaking patients were poorly served, relying on translators who couldn't capture the nuance of medical conversations.
+
+Gina had an idea: form a team of primary care physicians who were bilingual in Spanish and English. A dedicated team that could serve this population directly, no translation needed.
+
+They called it a "Module."
+
+By 1995, Gina was working to form Kaiser's first Spanish Module. It would officially open in 1997 with her as the first Module Chief and Founder. But already, in these early years, she was solving a real problem for real people.
+
+While I was learning vulnerability at work with Colette's coaching, Gina was creating something that mattered. She was building bridges where I was still building walls.
+
+We were both in survival mode—work intensifying, kids demanding, days bleeding into nights. But she was thriving in ways I couldn't yet see.
+
+**1993-1995 - The Search Hits Walls**
+
+I had grown frustrated with the law libraries. Too many hours in fluorescent-lit rooms, too many dead ends, too many weekends away from my family.
+
+But I'd found the Historian of the Wolverine Bar Association—the Black bar association of Michigan. This felt promising. Someone who knew the community, who might recognize a name, who could tell me if any of my seven candidates were real.
+
+I gave him my list. Seven names. Seven possibilities.
+
+"I'll check our records," he said. "Give me a week."
+
+A week later, the phone rang.
+
+"I'm sorry," he said. "I have no records of any of them."
+
+Dead end.
 
 Ivy League undergrad around 1960. Law degree from another prestigious university. 6'2", Black, Episcopalian, in private practice somewhere in Michigan.
 
 The criteria were clear. The results were not.
 
-Too many possibilities if I expanded beyond Detroit. Too few concrete leads if I stayed narrow. Every path led to bureaucratic dead ends or missing records.
+I had stopped going to the law libraries, but the obsession hadn't stopped. It just simmered beneath the surface, waiting for the next lead that might finally break through.
 
 I could stream The Terminator across a network, decode video in real time, build technology a decade ahead of its infrastructure.
 

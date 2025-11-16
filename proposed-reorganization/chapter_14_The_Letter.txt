@@ -1,4 +1,4 @@
-Chapter 15: The Letter
+Chapter 14: The Letter
 
 **Late January 1990**
 
@@ -60,7 +60,7 @@ In seven months, I would become a father. And I still didn't know who my father 
 
 **April 28, 1990**
 
-The wedding photos show chosen family assembled: groomsmen Patrick, James Raby, James Latham, Hugh, Dave, Vince. Bridesmaids Brenda, Cheryl, Dayna, June Cross, Wendy. Mom and Dad in the front row, beaming.
+The wedding photos show chosen family assembled: groomsmen Patrick, Hugh, Dave, Vince. Bridesmaids including June Cross. Mom and Dad in the front row, beaming.
 
 Gina's dress. My tuxedo. Two families becoming one.
 
@@ -68,15 +68,51 @@ Seven weeks since that probate court letter had arrived. I was building my own f
 
 **Summer 1990**
 
+I'd started at SGI as a summer intern in June 1987, then continued part-time as an hourly worker while finishing my master's degree. Now, with Gina pregnant and graduation approaching, I needed a full-time job.
+
+I approached my boss, the CTO, and asked for an offer. He obliged: full-time position with stock options.
+
+I had no idea what stock options were.
+
+But I knew this: I was one of fewer than a dozen people working directly for the CTO. Most of the others had PhDs. A couple were SGI founders. I was in rare company, and I felt terrific.
+
 At SGI, I belonged without explanation. No performance required, no "What are you?" questions to navigate. Just my mind, my code, my contributions.
 
 Marc Hannah had co-founded this 3D graphics powerhouse. We shared the Bell Labs scholarship, Stanford, being Black men from the Midwest. He'd gotten me the summer job that led here. Walking past offices filled with his revolutionary graphics machines, I felt connected to something larger than myself. Here was a model of what was possible—not just technical excellence, but building something that mattered. I wanted to be Marc, and short of that, to live up to the standard he'd set.
+
+I continued my work on my initial project at SGI. The first attempt had failed, but I was determined to succeed. I invented a new algorithm and implemented it. The satisfaction of seeing it work was intoxicating. This was what I was good at: breaking down impossible problems into solvable pieces, writing code that actually ran, creating something from nothing.
 
 That summer, reviewing papers for SIGGRAPH—the Olympics of computer graphics—my expertise was recognized without question.
 
 Professional belonging felt complete.
 
-But it couldn't fill the gaps in personal identity that Maya's birth would expose.
+**Fall 1991 - The Alan Lesson**
+
+"Alan submitted a paper to SIGGRAPH. Did you know about that?"
+
+A colleague stuck his head in my office with the question.
+
+"What? No I didn't!"
+
+I walked to Alan's office. He wasn't there. But when the preprint arrived weeks later, I got my answer.
+
+There it was—our algorithm, the one I'd spent months implementing, debugging, perfecting. Alan had contributed some basic theory, sure, but theory alone doesn't make software run. Every technical detail matched what we'd built together.
+
+But under the title, only Alan's name appeared.
+
+I stood there holding the paper, feeling heat rise in my chest. The same SIGGRAPH conference where I'd been reviewing papers—judging the work of others—and Alan had submitted our shared work as his own.
+
+I kept my mouth shut, not quite sure where I stood, but knowing any drama from me would only damage my reputation.
+
+A colleague, seeing my distress, offered advice I never forgot: "Don't wrestle with a pig; the pig will like it, and you'll only get dirty."
+
+So I swallowed my rage and buried the disappointment. Each time I saw Alan on campus, that familiar anger surged.
+
+I had arrived at SGI thinking good work spoke for itself. Now I was learning there was an unwritten rulebook everyone else had read, rules about credit and politics and self-promotion that had nothing to do with technical excellence.
+
+Alan left SGI a year later. Gradually, I learned to let the burden go. But the lesson stayed.
+
+Professional belonging felt complete. But it couldn't fill the gaps in personal identity that Maya's birth would expose.
 
 **October 11, 1990**
 
@@ -124,7 +160,21 @@ Looking at her face, I saw my face. But I still didn't know where that face came
 
 And I wouldn't rest until I knew.
 
+**January 1991**
+
+My evenings developed a pattern. Come home from SGI around 7 PM, sometimes later if a compile was running or a problem needed solving. Gina would have Maya fed, bathed, nearly ready for bed. I'd kiss them both, eat whatever Gina had saved for me, then retreat to the study.
+
+Legal directories. Birth records. Adoption laws. Michigan statutes. While Gina put Maya to bed, while she cleaned the kitchen, while she finally sat down exhausted in front of the TV, I was in the other room, searching.
+
+Two kinds of problems consumed me: the technical ones at work, where I could write elegant code and see immediate results, and this impossible genealogical puzzle, where every answer led to ten more questions.
+
+Both were abstract, logical, solvable. Both let me retreat from the messier work of being present with a colicky baby, a tired wife, the emotional complexity of new fatherhood.
+
+Gina didn't complain. She just kept the household running while I chased answers in two different worlds.
+
 **Redwood City Law Library - Saturday, March 1991**
+
+Saturday morning. Most people spent weekends with their families. I drove forty-five minutes south to the law library in Redwood City.
 
 The fluorescent lights hummed as I turned another page in the Martindale-Hubbell Law Directory. My cold coffee sat forgotten. The tiny font blurred after hours of reading.
 
@@ -134,16 +184,18 @@ Several matched all the criteria—but only if they practiced in Detroit. What i
 
 My finger traced down another column. How could I narrow this? Look for a "Black" name? That felt wrong, unreliable. Call each one? No. I couldn't think about that now. One step at a time. Just find candidates first.
 
+The same systematic approach I used for debugging code at SGI. Break the problem into pieces. Eliminate possibilities. Narrow the search space. Test hypotheses.
+
 The librarian appeared at my table. "We're closing."
 
-5 PM. Seven hours had passed.
+5 PM. Seven hours had passed. Gina had been alone with Maya all day.
 
 I drove home with my notes beside me. Seven names. Seven possibilities.
 
-Gina was in the kitchen when I walked in. I told her about my process, the careful elimination, the possibilities. "Seven names," I said, unable to contain the excitement. "Maybe I found him!"
+Gina was in the kitchen when I walked in, Maya on her hip. I told her about my process, the careful elimination, the possibilities. "Seven names," I said, unable to contain the excitement. "Maybe I found him!"
 
-Her face remained stoic as she continued fixing dinner.
+Her face remained stoic as she shifted Maya to her other hip and continued fixing dinner with her free hand.
 
-Maya played with blocks on the floor between us, building towers and knocking them down, building and knocking down, over and over.
+Maya played with blocks on the floor between us, building towers and knocking them down, building and knocking down, over and over. She'd been doing this all day, while I was in Redwood City.
 
 Gina didn't ask to see the names. She just kept chopping vegetables, her knife hitting the cutting board in steady rhythm.

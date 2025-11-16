@@ -1,0 +1,207 @@
+Chapter 15: Building Tomorrow (1993-1994)
+
+**Early 1993 - The Vision**
+
+Television in 1993 was completely passive—you watched whatever was on, when it was on. No pausing, no skipping, no control. The idea that you could browse movies like a menu, hit pause, rewind, or fast-forward sounded like science fiction.
+
+Then Time Warner called. They had a vision, and they wanted SGI to help build it.
+
+Their project was called the Full Service Network, and it aimed to be the first true interactive television platform. It would launch in Orlando, Florida, and beam digital content—movies, games, shopping, educational programming—into thousands of homes over a fiber-optic network.
+
+We were building tomorrow with technology that barely existed, turning $5,000 SGI workstations into set-top boxes when standard cable boxes cost under $250. But we weren't building for cost—we were building to prove it was possible.
+
+I was the third engineer on the team and there from the beginning. As the project grew, so did my role as the team leader building the software that would make it all work.
+
+At home, Maya was two years old, walking and talking with the intensity she'd shown since birth. Jamil had just turned one in November 1992, earning his nickname "Mr. Smiley" with his infectious laugh. Gina managed both of them while working full-time at Kaiser.
+
+I was at SGI, building the future of television.
+
+**Spring 1993 - Building the Team**
+
+I interviewed hundreds of candidates, often serving as the closer because I was best at selling SGI's culture. And I meant every word—I loved working there.
+
+I recruited Frank, a colleague from the East Coast who was a perfect fit: always smiling, endlessly positive, and adaptable, the kind of person who thrived in SGI's unstructured chaos. I also tapped some of the most talented engineers I knew at SGI.
+
+Our team thrived on the challenge of building software for what we hoped would become the set-top box that changed everything.
+
+The energy was electric. We were a band of dreamers pushing the limits of what was technically possible.
+
+But while I was building this dream, Gina was home with Maya and Jamil in our 900-square-foot apartment in Mountain View.
+
+**Summer 1993 - The Durhams**
+
+Our next-door neighbors on the second floor became lifesavers. The Durhams had three kids of their own—two older than Maya, one younger than Jamil. While Gina and I worked, they cared for Maya and Jamil like family.
+
+The kids were like siblings, running between apartments, sharing meals, growing up together. I could feel it: the Durhams loved Maya and Jamil. Not just childcare. Love.
+
+Maya, at three, was very active, strong and tall for her age, a force of energy. Jamil's quiet, happy demeanor earned him that nickname everywhere he went.
+
+The Durhams made it possible for both of us to work. But they couldn't make me present when I was home.
+
+**Late 1993 - Frank's Struggle**
+
+"Derrick man, I can't get this driver to work," Frank said one afternoon, frustration evident as he struggled with the video hardware.
+
+He was tenacious, spending hours trying everything he could think of. I looked at the code—it was clear Frank was exhausting every possibility, but he had no idea how to make it work. Neither did I! I was awestruck by his persistence, but after a while I grew frustrated watching him hit the same walls.
+
+Frank just smiled, saying "This is all messed up, man. Lol."
+
+"Let's contact the manufacturer to see if we can get better documentation," I suggested.
+
+Two weeks later, Marc, the designer of the chip we needed, flew in from France! We were his first customer, and he needed proof his creation could work in the real world. His thick accent and nervous energy filled our cramped lab as we walked him through our setup.
+
+**Early 1994 - "No One Has Ever Done This Before"**
+
+Within days, we had it running. Frank demoed The Terminator playing through Marc's chip. Marc was stunned.
+
+"No one has ever done this before," he whispered, half in French, half in awe, as the movie froze mid-sentence on our monitor. With a click, Frank rewound the scene. Another click—fast forward. Pause. Play.
+
+We had built Netflix in 1993, a decade before it would exist. We weren't even sure we could make it work, but Frank and I had made it work.
+
+"Frank!!! You are the man!" I shouted, unable to contain my excitement.
+
+"Naw, you are DB," Frank responded with his slight New York/West Indian accent.
+
+Real-time digital video with full user control, running live on hardware. Streaming video with pause, rewind, fast-forward—all on demand.
+
+It was 2007, achieved in 1994.
+
+Marc stared at the screen, watching us control the video like it was a local file. "Streaming video in real time with full playback control—pause, rewind, fast-forward, all on demand. No one has ever done this before."
+
+But the timing was wrong. Set-top boxes would get cheaper, but cable companies were slow-moving Mom and Pop operations. It would take decades to run new fiber optic cables. The world just wasn't ready yet.
+
+"What you've built here," our Time Warner liaison said during the final demo, "is twenty years ahead of the infrastructure that could support it."
+
+He meant it as praise, but I heard it as prophecy. Somewhere, someone would build that infrastructure. Someone would make billions bringing our vision to the masses.
+
+Why shouldn't that someone be me?
+
+**Spring 1994 - An Afternoon in the Apartment**
+
+One Saturday afternoon, I was home alone with the kids while Gina was at Kaiser. Maya was talking, her voice filling the 900 square feet of our apartment. Jamil sat in the baby swing in the corner of our living room, rocking back and forth, crying.
+
+I sat at the table, trying to focus on work I'd brought home. Code reviews. Technical specifications.
+
+The crying. The talking. The swing creaking.
+
+The stimulus was unbearable. The walls were closing in on me.
+
+If I did not get out, I would lose my mind.
+
+I stood up, grabbed my keys, muttered something about needing air, and left.
+
+When Gina came home, I was gone. The kids were fine—Maya was watching them both, like she always did. But I had walked out.
+
+She didn't say anything when I returned an hour later. She just looked at me, then turned back to making dinner, Jamil on her hip.
+
+**Summer 1994 - The Supervisory Role**
+
+The Time Warner Full Service Network in Orlando was a rollercoaster—an ambitious, high-stakes experiment to reinvent television. After leading the team to deliver production-ready software and helping to recruit some of the best talent I'd ever worked with, I was offered a supervisory role.
+
+I should have felt triumphant. Instead, I felt the weight of what we had built, and the world's inability to see it yet.
+
+As the Time Warner project drew to a close and we delivered on our commitments, I grew bored. The project turned from innovation and discovery to execution and incremental improvement. I wanted another mountain to climb, not another railroad track to lay.
+
+Wei Yen provided me a path forward and a promotion. I jumped on it, while Frank stayed and delivered interactive TV to media companies from Japan to Europe, attempting to turn our breakthrough software into an installable package that any existing cable company could buy.
+
+My former manager Reuel, 6'5", from Waco, Texas, with a full beard and a full head of long, straight hair combed to the side, was my model of a good team leader. He was caring but direct, focused on results yet never forgetful that we were all human and flawed. He operated with the highest integrity—he never exaggerated, never manipulated. You always knew where you stood with Reuel.
+
+I wanted to lead like that, but I didn't yet have his maturity or emotional steadiness.
+
+**Saturday Mornings at the Law Library**
+
+While I was building interactive television, my Saturday mornings had developed a pattern.
+
+Most people spent weekends with their families. I drove forty-five minutes south to the law library in Redwood City.
+
+The fluorescent lights hummed as I turned another page in the Martindale-Hubbell Law Directory. My cold coffee sat forgotten. The tiny font blurred after hours of reading.
+
+Michigan lawyers. Born 1938. Ivy League undergrad. Law degree from "another prestigious university." In private practice.
+
+Several matched all the criteria—but only if they practiced in Detroit. What if he'd moved to Grand Rapids? Lansing? Ann Arbor? I'd have to check every Michigan lawyer born around 1938 with the right credentials.
+
+My finger traced down another column. How could I narrow this? Look for a "Black" name? That felt wrong, unreliable. Call each one? No. I couldn't think about that now. One step at a time. Just find candidates first.
+
+The same systematic approach I used for debugging code at SGI. Break the problem into pieces. Eliminate possibilities. Narrow the search space. Test hypotheses.
+
+The librarian appeared at my table. "We're closing."
+
+5 PM. Seven hours had passed. Gina had been alone with Maya and Jamil all day.
+
+I drove home with my notes beside me. Seven names. Seven possibilities.
+
+Gina was in the kitchen when I walked in, Maya on her hip. I told her about my process, the careful elimination, the possibilities. "Seven names," I said, unable to contain the excitement. "Maybe I found him!"
+
+Her face remained stoic as she shifted Maya to her other hip and continued fixing dinner with her free hand.
+
+Maya played with blocks on the floor between us, building towers and knocking them down, building and knocking down, over and over. She'd been doing this all day, while I was in Redwood City.
+
+Gina didn't ask to see the names. She just kept chopping vegetables, her knife hitting the cutting board in steady rhythm.
+
+**Late 1994 - Gina Builds Something New**
+
+While I was learning to lead at SGI, Gina was building her own vision at Kaiser.
+
+She had passed the Boards, and her panel of patients was growing. She saw an opportunity to have an impact.
+
+San Francisco had large populations of Chinese and Spanish-speaking patients. The Chinese community was well-organized, thanks to a substantial number of Chinese-American doctors. But Spanish-speaking patients were poorly served, relying on translators who couldn't capture the nuance of medical conversations.
+
+Gina had an idea: form a team of primary care physicians who were bilingual in Spanish and English. A dedicated team that could serve this population directly, no translation needed.
+
+They called it a "Module."
+
+By late 1994, Gina was working to form Kaiser's first Spanish Module. It would officially open in 1997 with her as the first Module Chief and Founder. But already, in these early years, she was solving a real problem for real people.
+
+While I was learning vulnerability at work with Colette's coaching, Gina was creating something that mattered. She was building bridges where I was still building walls.
+
+We were both in survival mode—work intensifying, kids demanding, days bleeding into nights. But she was thriving in ways I couldn't yet see.
+
+**November 1994 - Maynard Shows Me Tomorrow**
+
+"You need to see this," Maynard said, pulling up a chair in my office.
+
+Maynard Holliday—my former Stanford roommate, astronaut candidate, someone who understood what the future looked like before it arrived. If Maynard thought something mattered, I paid attention.
+
+He opened a browser called Mosaic.
+
+In an instant, I saw tomorrow.
+
+This wasn't just software. It was a portal. Click a link, travel anywhere. Information that had lived in isolated silos suddenly connected. The internet had been around for years, but Mosaic made it visible, accessible, real.
+
+"This changes everything," I said.
+
+"Jim Clark thinks so too," Maynard replied. "He just left SGI to start a company with the kid who built this."
+
+Jim Clark. SGI's founder. The man who'd built the company where Marc Hannah's vision became reality, where I'd found belonging without having to perform.
+
+And now he was leaving to build the future.
+
+**End of 1994 - Three Lines Converging**
+
+By the end of 1994, three threads were interweaving in my life:
+
+At work, we'd built streaming video with full VCR controls—Netflix before Netflix, technology ahead of its infrastructure. I'd proven I could lead a technical team to impossible achievements. Now I was being promoted into professional services, learning to lead in ways that had nothing to do with code.
+
+At home, Gina was managing two young children, a demanding medical career, building her Spanish Module vision, and a husband who was physically present but emotionally elsewhere. The Durhams filled the gap I created.
+
+And in law libraries between Mountain View and Detroit, I was searching through directories, chasing fragments of information about a 6'2" Black Harvard lawyer I'd never met. Seven names. Seven possibilities that would all lead nowhere.
+
+I told myself the search was about answering questions for my children. About medical history. About completing the puzzle.
+
+But the truth, the one I couldn't articulate even to myself, was simpler: I needed to know.
+
+Not for Maya. Not for Jamil. Not for some practical reason.
+
+I needed to know where I came from. Who the people were who made me, then gave me away.
+
+And no amount of professional success, no loving wife, no beautiful children who looked like me, no breakthrough technology that would reshape the world a decade later, could satisfy that need.
+
+The search had become its own obsession, as consuming as any code I'd ever written. More consuming, because unlike code, I couldn't debug it, couldn't force it to yield answers, couldn't control the outcome.
+
+All I could do was keep looking. Keep searching. Keep hoping that somewhere in those legal directories, in those library stacks, in those archives, I'd find the name that would finally answer the question:
+
+Who am I?
+
+But first, another door would open. One I didn't expect. One that would change everything about my professional trajectory—not through what I chose, but through what I was too afraid to choose.
+
+Jim Clark was about to call.

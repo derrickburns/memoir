@@ -1,0 +1,317 @@
+Chapter 16: The Road Not Taken (Late 1994-1995)
+
+**Late 1994 - Coffee in Palo Alto**
+
+Jim Clark sat across from me at a coffee shop in Palo Alto, leaning forward with the intensity of someone who'd already seen what was coming.
+
+"The inventor is Marc Andreessen," he said. "Brilliant kid from Illinois. We're going to change the world, and I want you to join us."
+
+My heart raced. Jim Clark—SGI's founder, the man who'd built the company where Marc Hannah's vision became reality—was inviting me to be part of what would become Netscape. The company that would take Mosaic and turn it into the browser that defined the internet's first era.
+
+"I'm not going to let the VCs get rich off my efforts again while the founders get nothing," he said, leaning forward. "This time, we keep control. The founders will do well. I'm bringing the best from SGI—Kipp Hickman, Michael Toy, programmers who can actually build this thing."
+
+I thought about what I'd just built. Streaming video with full VCR controls. Technology a decade ahead of its time. I knew how to build complex systems, debug impossible problems, ship production code.
+
+But I knew nothing about networking. Nothing about client-server computing. Nothing about user interface design.
+
+The fear crept in: Could I really add value, or would I be exposed as a fraud?
+
+"I have to think about it," I said. "Can I talk to Gina?"
+
+Jim nodded. "Don't take too long. This is moving fast."
+
+**That Evening**
+
+I told Gina about Jim's offer over dinner, after the kids were in bed.
+
+"What did you say?" she asked.
+
+"I told him I'd think about it."
+
+She looked at me for a long moment, reading my face. "What are you afraid of?"
+
+The question hit harder than I expected.
+
+"I have two young kids. You're navigating being a Black female physician at Kaiser. We have a mortgage. A 900-square-foot apartment that's already too small. SGI offers stability, health insurance, a steady paycheck."
+
+"And Jim is offering what?"
+
+"The unknown. A startup that might fail. No safety net."
+
+She was quiet, then said gently, "You're talking about me and the kids. But what are you afraid of for yourself?"
+
+I couldn't answer.
+
+We sat in silence. Finally, she said, "Trust your instincts."
+
+But my instincts were screaming two different things. Excitement about the future Jim was describing. Terror that I wouldn't be good enough to help build it.
+
+**The Call**
+
+The next day, I called Jim.
+
+"I'm honored you thought of me," I said carefully. "But I have to stay at SGI right now. Family obligations."
+
+Jim was quiet for a moment. "I understand. But Derrick—this is the future. Interactive TV is a distraction. The web is what matters. If you change your mind..."
+
+"I'll let you know," I said.
+
+I didn't change my mind.
+
+Kipp Hickman joined Netscape. Michael Toy joined. Other brilliant SGI engineers joined. They got founders' shares in what would become one of the defining companies of the internet age.
+
+I stayed in the known. Chose safety over vision. Let fear win.
+
+**Early 1995 - What I Didn't Tell Gina**
+
+In the months after I declined Jim's offer, something gnawed at me that I couldn't name.
+
+Gina had asked, "What are you afraid of for yourself?"
+
+I'd dodged the question. But the truth was clear, even if I couldn't say it aloud.
+
+I was afraid I wasn't good enough.
+
+At SGI, I'd found my niche. Computer graphics. Algorithms. Systems I understood. I could solve impossible problems in that domain because I'd spent years building expertise.
+
+But networking? Client-server architecture? Building a browser from scratch? That was foreign territory.
+
+What if I joined Netscape and couldn't contribute? What if those brilliant engineers from Illinois looked at my code and wondered why Jim had brought me along? What if I was the weak link?
+
+Better to stay where I knew I could succeed than risk exposure somewhere new.
+
+But there was something else I didn't tell Gina.
+
+Jim had been dismissive about interactive TV. "A distraction," he'd called it. "A waste of time."
+
+I'd just spent two years building what I believed was the future. We'd achieved something no one had done before. And Jim Clark—the founder of SGI, someone I respected deeply—had essentially told me it didn't matter.
+
+That stung more than I wanted to admit.
+
+So I told myself I was choosing family stability. Told myself I was being responsible.
+
+But I was really choosing pride over possibility. Choosing the safety of being right about interactive TV over the risk of being a beginner again in a new domain.
+
+**Spring 1995 - Ken Coleman's Investment**
+
+Ken Coleman saw something in me I couldn't see in myself.
+
+One afternoon in his office, he laid out a plan.
+
+"You've got the technical skills," he said. "You've proven you can lead a team to deliver impossible things. But now you need the leadership tools."
+
+He'd already given me a GM role with P&L responsibility, paired me with Malcolm Jones to teach me the business side of technology. Now he was going further.
+
+"I'm sponsoring you for the Harvard Course on Negotiation," he said. "Professor Margaret Neale. You'll learn about BATNA—Best Alternative to a Negotiated Agreement. It's about knowing your walkaway point before you enter any negotiation."
+
+The irony wasn't lost on me. I'd just walked away from the biggest negotiation of my career without knowing my BATNA at all.
+
+"I'm also getting you into the Stanford GSB/American Electronics Association Executive Institute," Ken continued. "You need to learn how to manage across functions, build relationships with people who don't think like engineers."
+
+I was stunned by this level of investment. Grateful.
+
+Ken Coleman was one of the few Black executives at SGI's level. He'd risen through the ranks at Hewlett-Packard before joining SGI. Willie C. Hooks, brought in from DEC where he'd led professional services for the entire U.S. West Coast, was another. Willie knew how to design, package, and deliver services to enterprise customers just like ours; complex environments, high expectations, and no room for failure.
+
+Ken had recruited three of us—all Black men at director level—to become general managers in his professional services business. He was investing in our success.
+
+Blake was the third. Ten years older than me, smooth as a used car salesman, with a smile that would melt butter and deep knowledge and connections in Hollywood. He understood the gravity of the opportunity Ken was offering us.
+
+But Blake wasn't an engineer. And I wanted to feel like a peer, if not superior.
+
+**Summer 1995 - Malcolm's Tutorial**
+
+Malcolm Jones was my tutor in a language I'd never spoken: the business of professional services.
+
+Willie paired us deliberately. Malcolm was a seasoned professional services expert, another Black man who had walked this road before me. I was stunned by this level of investment, and grateful.
+
+We sat in a conference room, Malcolm at the whiteboard.
+
+"Repeatable offerings," he said, sketching diagrams. "Plus high utilization. That's the formula."
+
+I nodded, taking notes. It sounded simple.
+
+"So, what do we do with our current offerings? From what you're telling me, they're not repeatable, so we have no way to project how much they'll cost us to deliver. We need to get rid of them?"
+
+"Right, now you get it."
+
+"But what do we offer instead?"
+
+Malcolm stopped writing and turned to face me. "That is exactly the challenge! I can't tell you that."
+
+He drew more on the board. "Derrick, what happens when the next customer wants it to work with their different network setup?"
+
+"We... modify it?"
+
+"And the one after that wants a different user interface?"
+
+"We modify that too?"
+
+"And pretty soon you're back to building custom solutions for everyone. No repeatability. No scalability." He turned to face me. "What's your utilization rate when every project is unique?"
+
+I stared at the whiteboard, the math becoming clear. "It's terrible. We're constantly reinventing everything."
+
+"Now you're getting it."
+
+I understood the theory, but I had no idea how to put it into practice. My problem: I had spent no time with real customers. Blake had.
+
+**The Blake Problem**
+
+Blake walked into rooms and owned them. A survivor of a transplant, Blake had an insight I couldn't begin to grasp. He needed no one else's affirmation, and this confidence gave him the ability to paint visions of tomorrow.
+
+When Blake talked about his Hollywood meetings, I listened with growing resentment.
+
+He spoke about interactive entertainment, about what studios wanted, about the future of content delivery. His visions were expansive, confident, compelling.
+
+As an engineer, I found his visions fantastic—but not in a good way. Rather, I judged them as flights of fancy. Too ambitious. Not grounded in technical reality.
+
+I whispered as much in private. To colleagues. In meetings Blake wasn't in.
+
+Ken noticed.
+
+**The Elevator Confrontation**
+
+One day, waiting for the elevator, Ken called me out.
+
+"Derrick," he said, voice low and firm, "we need to talk about your behavior."
+
+"What do you mean?" I asked, already bracing.
+
+"Your anger. Your mistrust of colleagues. Your backbiting comments about Blake. These men are your allies."
+
+"But Ken—"
+
+He cut me off, pressing a finger into my chest. "You don't lash out just because you feel anger. Know yourself. Control yourself."
+
+The elevator opened, and Ken stepped inside, leaving me shaken but newly clear-eyed.
+
+His words cut deep. Something was building in my chest—familiar heat, the same anger I'd felt years ago watching Alan walk away with my work. But this time it had nowhere to go. Ken was right, and I knew it.
+
+Later that day, I saw Ken by the elevators again. He must have seen something in my expression because he spoke quietly.
+
+"Derrick. What are you really angry about?"
+
+I struggled to find words. "I don't know how to do this."
+
+"Do what?"
+
+"What Blake does. What Malcolm does. I can build software. I can lead engineers. But I don't know how to talk to customers, how to package offerings, how to make this business work."
+
+"Blake gets the Hollywood meetings because he knows how to talk to those people. Malcolm understands P&L because he's done it for twenty years. These aren't your enemies. They're showing you what you need to learn."
+
+I stood there alone after Ken left, watching my distorted reflection in the polished wall, feeling smaller than I had since my first day as an intern.
+
+In engineering, I'd always known exactly where I stood; my code worked or it didn't. But here, I was flailing, and instead of asking for help, I was lashing out at people who had what I wanted.
+
+That night, I wanted to call Blake. I knew I owed him an apology. But I was too ashamed to pick up the phone.
+
+When I saw him at work, I made it a point to be kind and deferential. Blake deserved my respect, but I was too fragile to be vulnerable.
+
+**August 9, 1995 - The IPO**
+
+Netscape went public on August 9, 1995.
+
+The stock was priced at $28 per share. By the end of the first day of trading, it had reached $58.25, valuing the company at nearly $3 billion.
+
+I sat in my office at SGI, staring at the stock ticker on my screen.
+
+Kipp Hickman, who'd joined as an early employee, was now worth millions. Michael Toy, millions. Marc Andreessen, twenty-four years old, on the cover of Time magazine barefoot, worth tens of millions.
+
+I had declined Jim's offer nine months ago.
+
+I did the math. If I'd joined as an early engineer, even with a modest equity stake, I'd be looking at life-changing wealth. Not "I can buy a bigger house" wealth. Generational wealth.
+
+Instead, I was learning about repeatable offerings and utilization rates, struggling to understand a business I didn't care about, getting called out by Ken Coleman for backbiting colleagues.
+
+Gina's question echoed: "What are you afraid of for yourself?"
+
+I'd been afraid I wasn't good enough. Afraid of being exposed. Afraid of starting over in a domain I didn't understand.
+
+And that fear had cost me everything.
+
+**April 9, 1996 - The Magazine Cover**
+
+Marc Andreessen appeared on the cover of Time magazine. Twenty-four years old. Worth millions. The face of the internet revolution.
+
+I bought the magazine at a newsstand and stared at it in my car before driving home.
+
+The image was iconic: young, confident, barefoot on a throne, the new king of Silicon Valley.
+
+I folded the magazine and put it in my desk drawer at home. But I pulled it out every few weeks like picking at a scab.
+
+"You see that story about Netscape hitting $3 billion?" Vince mentioned casually one day.
+
+I had. The number felt like a physical weight in my chest. Each dollar of their success felt personal, a reminder of the door I'd been too afraid to walk through.
+
+**Late 1995 - The Search Hits Walls**
+
+While Netscape was soaring, my birth father search was collapsing.
+
+I'd given my list of seven names to Mr. Littlejohn, the Historian of the Wolverine Bar Association—the Black bar association of Michigan. This felt promising. Someone who knew the community, who might recognize a name, who could tell me if any of my candidates were real.
+
+"I'll check our records," he said. "Give me a week."
+
+A week later, the phone rang.
+
+"I'm sorry," he said. "I have no records of any of them."
+
+Dead end.
+
+Ivy League undergrad around 1960. Law degree from another prestigious university. 6'2", Black, Episcopalian, in private practice somewhere in Michigan.
+
+The criteria were clear. The results were not.
+
+I stopped going to the law libraries. The obsession hadn't stopped—it just simmered beneath the surface, waiting for the next lead that might finally break through.
+
+I could stream The Terminator across a network, decode video in real time, build technology a decade ahead of its infrastructure.
+
+But I couldn't find the man who gave me life.
+
+And I'd been too afraid to join the company that would define the future of the internet.
+
+**November 1996 - Renewed Search**
+
+In November 1996, something shifted. I couldn't keep living with these failures.
+
+At work, I was struggling. At home, I was absent. In Redwood City law libraries, I'd hit dead ends.
+
+But I wasn't ready to give up.
+
+I reached out to Mr. Littlejohn again. This time, with a new strategy. I explained everything I knew: the probate court description, the Ivy League background, the timeline, the height, the Episcopalian faith.
+
+"Let me see what I can find," he said.
+
+I hung up feeling a glimmer of hope.
+
+Maybe this time would be different.
+
+**End of 1995 - Three Lines, Three Failures**
+
+By the end of 1995, I was failing on all three fronts:
+
+**Professional:** I'd declined Netscape and watched it become worth billions. I was struggling in a GM role I didn't understand, lashing out at colleagues, being called out by Ken Coleman for behavior I couldn't control.
+
+**Family:** I was physically present but emotionally absent. Gina was building her Spanish Module at Kaiser, managing two young kids, carrying our family while I escaped into obsessions. The Durhams filled the gap I created.
+
+**Search:** Seven names. Seven dead ends. No closer to finding my birth father than I'd been three years ago when I first held that probate court letter.
+
+The irony was brutal. I'd built streaming video systems a decade ahead of their time, but I couldn't find peace in my own present. I could lead teams and close deals, but I couldn't lead myself past fear.
+
+And all the professional development in the world—Harvard negotiation courses, Stanford executive programs, Malcolm's tutoring, Ken's investment—couldn't answer the question that had plagued me since childhood:
+
+Who am I, really, beneath all the performance?
+
+Netscape's success wasn't just about money. It was about roads not taken. Doors I'd been too afraid to walk through. Potential I'd never know if I could have fulfilled.
+
+Jim Clark's words echoed: "If you change your mind..."
+
+But I hadn't changed my mind. I'd let fear make my decisions for me.
+
+And now I was living with the consequences.
+
+What I didn't know yet was that the consequences would get worse before they got better. SGI was about to peak. And then, everything would begin to fall apart.
+
+But first, one more peak. One more moment at the top before the long decline.
+
+Christmas 1995 was coming.
+
+And I wouldn't be able to get out of bed.

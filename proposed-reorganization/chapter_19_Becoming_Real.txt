@@ -1,0 +1,406 @@
+Chapter 19: Becoming Real (1990-1997)
+
+**Author's Note:** This chapter steps back from the chronological narrative to explore the journey of fatherhood and authenticity that unfolded across the years 1990-1997, parallel to the professional struggles and birth parent search already chronicled.
+
+---
+
+**The Professional Self (1987-1990)**
+
+At SGI, I'd found a professional identity that clicked into place naturally. I was valued for my mind, my problem-solving abilities, and my collaborative spirit. I belonged without explanation.
+
+The elevator doors opened at building 6, and I stepped into a scene that still felt surreal. Engineers in t-shirts and shorts sprawled across bean bag chairs, arguing passionately about RISC vs CISC architecture. A unicycle leaned against a whiteboard covered in equations.
+
+"Burns!" Rick called from across the lobby. "We need you for the football team. Defensive line."
+
+Later that day, hunched over a keyboard with Vince, we attacked a memory allocation bug. My fingers flew across the keys, finding that sweet spot where mathematics met real-world problems. Unlike my struggles with theoretical CS courses, this felt natural.
+
+"Got it," I announced as the code finally ran clean.
+
+Walking back to my desk, I passed offices filled with Marc Hannah's revolutionary graphics machines. Each one held his innovation inside. A smile formed on my face. This emerging 3D graphics powerhouse was co-founded by a Black man from the Midwest! Someone had already been here, had already excelled, had blazed a trail I could follow.
+
+That Friday, during our pickup basketball game, I blocked Kirk's shot with more force than necessary, sending the ball sailing into the bleachers.
+
+"Damn, Derrick!" Kirk laughed, jogging after the ball.
+
+"Save some for the other team," James said, tossing me the ball. "Pick and roll."
+
+For once, I didn't need to borrow moves or channel someone else's confidence. I just played, fully, authentically me.
+
+At SGI, I belonged. No performance required. No "What are you?" questions to navigate. Just my mind, my code, my contributions.
+
+But that belonging was about to be tested by a different kind of challenge entirely.
+
+---
+
+**Unexpected Fatherhood (Late January 1990)**
+
+Sunday morning sunlight filtered through our kitchen blinds. Gina pushed her untouched toast away and sipped water instead of coffee.
+
+"You okay?" I asked, glancing up from the newspaper.
+
+"Not really."
+
+When she emerged from the bathroom, her face was pale, holding a white plastic stick with a small window in its center.
+
+"I'm pregnant."
+
+The kitchen clock ticked. Five, six, seven seconds of silence.
+
+"Say something," she whispered.
+
+My mouth went dry.
+
+"You're sure?"
+
+Inside, I screamed: "A baby! I am a grad student. I am not ready!"
+
+"That's wonderful!" I exclaimed.
+
+My hand reached for hers, squeezing with an actor's precision.
+
+Performance mode, activated. The same skill that had gotten me through Princeton, through Stanford theory courses I didn't understand, through social situations where I felt like an alien observer.
+
+But this time, I couldn't just perform my way through. This was real. This was permanent.
+
+In seven months, I would become a father.
+
+And I had no idea who I really was beneath all the performances.
+
+---
+
+**October 11, 1990 - The First Mirror**
+
+When they placed Maya in my arms, time suspended.
+
+A full head of hair crowned her tiny face, eyes finding mine with an intensity that felt like recognition. Her tiny fingers wrapped around my index finger with the gravity of a question I wasn't yet ready to answer.
+
+For the first time, I saw a face like mine.
+
+As an adopted child with no biological mirrors in my family, this connection hit me with unexpected force. Growing up as a "mixed" child had been like being an extraterrestrial visitor, dropped into humanity without a clear lineage. Questions of "What are you?" had always haunted me, not from a place of racial identity, but from a deeper alienation of seeming to lack visible roots.
+
+Now, looking at Maya, I finally had an answer to the lifelong question "What are you?"
+
+I am her father.
+
+Her features echoed mine, a biological connection that anchored me to Earth in a way I'd never before experienced.
+
+But almost immediately, a new terror set in.
+
+What if I fail her? What if I can't be the father she needs? What if there's nothing real beneath the performance I've been giving my whole life?
+
+---
+
+**1990-1992 - Learning the Hard Way**
+
+Parenthood offered no clear parameters like my work at SGI.
+
+At work, I could compile code and see immediately if it worked. I could debug systematically, test hypotheses, narrow the search space until I found the problem.
+
+At home, I had no idea if I was succeeding or failing as a father. The feedback loop was years long, the metrics unclear.
+
+Maya's demands interrupted the mental focus that made me successful professionally. While debugging code required uninterrupted thought, parenting demanded constant context-switching and emotional presence I hadn't yet learned to provide.
+
+At nine months, Maya was walking. Early, like everything about her. Intense, demanding, brilliant.
+
+I'd come home from SGI around 7 PM, sometimes later if a compile was running or a problem needed solving. Gina would have Maya fed, bathed, nearly ready for bed. I'd kiss them both, eat whatever Gina had saved for me, then retreat to the study.
+
+Two kinds of problems consumed me: the technical ones at work, where I could write elegant code and see immediate results, and the impossible genealogical puzzle of finding my birth parents, where every answer led to ten more questions.
+
+Both were abstract, logical, solvable. Both let me retreat from the messier work of being present with a colicky baby, a tired wife, the emotional complexity of new fatherhood.
+
+Gina didn't complain. She just kept the household running while I chased answers in two different worlds.
+
+---
+
+**November 5, 1992 - Mr. Smiley**
+
+Jamil arrived with an infectious laugh that could transform my darkest moods, earning his nickname "Mr. Smiley" almost immediately.
+
+Where Maya demanded attention with the intensity she'd shown from birth, Jamil absorbed the world around him, simultaneously curious and cautious. Maya's eyes had found mine with that gravity of recognition. Jamil's eyes watched, assessed, smiled.
+
+I had two biological mirrors now. Two faces that looked like mine. And I still didn't know where that face came from.
+
+But what Maya's and Jamil's births awakened in me was something I couldn't have predicted. Somewhere out there was a man who had held me like this. Or maybe he hadn't. Maybe he'd never known I existed. And somewhere was a woman who had felt me move inside her, had given birth to me, had looked at my face and then...
+
+Given me away.
+
+The questions I'd carried my whole life weren't just about me anymore. They were about them. About what I would tell Maya and Jamil when they asked where they came from. How could I answer when I didn't know where I came from?
+
+The search for my birth parents intensified. Law libraries. Legal directories. Seven names that led nowhere.
+
+And while I searched, Gina managed both children.
+
+---
+
+**1992-1994 - Gina's Burden**
+
+One evening in 1992, after a particularly grueling shift, Gina dropped her hospital bag and leaned against the kitchen counter.
+
+"Doctor Coleman asked if I was 'planning to stay committed' after having the kids," she said, her voice flat. "As if motherhood was some kind of professional weakness."
+
+I looked up from the code I'd brought home to review.
+
+She was juggling a demanding medical career while raising our kids, navigating a world where someone like her—Black, female, working mother—wasn't who her colleagues pictured when they thought "doctor."
+
+I saw her exhaustion. I saw her quiet defiance.
+
+I admired her strength but didn't know how to truly support her.
+
+What I didn't see, what I wouldn't recognize for years, was that while she fought those battles at work, she was also managing our household, caring for two young children, and supporting my obsessive search for birth parents who had given me away.
+
+She carried all of it. And I admired her for it, then went back to my code.
+
+---
+
+**Spring 1994 - The Apartment Scene**
+
+One Saturday afternoon, I was home alone with the kids while Gina was at Kaiser. Maya was talking, her voice filling the 900 square feet of our apartment. Jamil sat in the baby swing in the corner of our living room, rocking back and forth, crying.
+
+I sat at the table, trying to focus on work I'd brought home. Code reviews. Technical specifications.
+
+The crying. The talking. The swing creaking.
+
+The stimulus was unbearable. The walls were closing in on me.
+
+If I did not get out, I would lose my mind.
+
+I stood up, grabbed my keys, muttered something about needing air, and left.
+
+When Gina came home, I was gone. The kids were fine—Maya was watching them both, like she always did, her four-year-old self already taking responsibility I couldn't handle.
+
+Gina didn't say anything when I returned an hour later. She just looked at me, then turned back to making dinner, Jamil on her hip.
+
+I had failed. Again.
+
+But I didn't know how to do it differently.
+
+---
+
+**June 1995 - The Bunk Bed**
+
+That June evening, I knelt on the floor reassembling the kids' bunk bed. Maya, five years old, watched critically.
+
+"Dad, you are doing it wrong," she said matter-of-factly.
+
+For a moment, I felt that familiar defensiveness rise. I was the one with the engineering degree from Stanford. I was the one who debugged impossible problems at SGI. How could a five-year-old tell me I was doing it wrong?
+
+But something in her expectant face stopped me.
+
+"You know what? You're right," I admitted. "Let's fix it together."
+
+Her smile contained no judgment, only delight at collaboration.
+
+We spent the next hour rebuilding, Maya handing me exactly the right screws without being asked, pointing out where the alignment was off, suggesting we flip the frame to make it easier to attach the supports.
+
+She was right every time.
+
+When we finished, the bed stood perfectly.
+
+"We did good, Dad," she declared, patting my hand.
+
+In that moment, we weren't performing roles, but simply working together, seeing and responding to each other's needs without pretense.
+
+The relief of that authentic connection felt like coming up for air after swimming underwater too long.
+
+For an hour, I hadn't been performing "World's Best Dad." I'd just been present. Real. Working alongside my daughter, learning from her, being wrong and admitting it, collaborating instead of controlling.
+
+It was the best hour of fatherhood I'd experienced since Maya was born.
+
+And it terrified me, because I didn't know how to make that the norm instead of the exception.
+
+---
+
+**Christmas Morning 1995 - The Performance Collapses**
+
+The digital clock on the nightstand glowed 6:17 AM when I first heard Maya's excited whisper to Jamil in the hallway. Their footsteps padded past our bedroom door, hushed but vibrating with barely contained energy.
+
+"Mama, is Santa here?" Maya's stage whisper carried through the door.
+
+"Shh, let's wait for Dad," Gina murmured back.
+
+I pulled the comforter over my head, creating a cave of darkness. The weight pressed against my chest—not just fabric, but the accumulation of a thousand small failures.
+
+What terrified me most wasn't failing at the performance. It was the possibility that there was nothing authentic beneath it. That maybe I really was a failure, and all the achievements—SGI, the streaming video, the promotions—were just elaborate masks hiding emptiness.
+
+Gina's side of the bed dipped as she sat beside me. "Derrick, it's almost seven. The kids have been up since six."
+
+Her voice was carefully neutral, devoid of the frustration I knew she must feel.
+
+I grunted in response, still hidden.
+
+"They're waiting," she added softly.
+
+When Maya's voice finally called from downstairs, "Daddddd?! Santa came!", the plaintive note pierced through my fog.
+
+I pictured them cross-legged by the tree we'd decorated together, their eyes scanning the presents.
+
+They weren't waiting for Santa.
+
+They were waiting for me.
+
+With mechanical movements, I swung my legs over the side of the bed.
+
+Eventually, I forced myself up. When I finally emerged into the living room, Gina formed a smile on her face, but her eyes betrayed her real pain.
+
+"Let's open presents!" she said, her voice bright for the kids.
+
+"Here is one for Jamil!" Maya announced, grabbing one of the dozens of individually wrapped presents that Gina and I had wrapped the night before. The packages spilled out from under the Christmas tree, filling our small living room.
+
+Jamil tore into wrapping paper, his smile genuine, unaware.
+
+Gina's eyes met mine for just a moment. Then she turned to help Jamil with the next present, the performance smile still fixed on her face.
+
+I sat on the couch, watching my family open presents. Watching Gina manage everything—the kids' excitement, the wrapping paper chaos, the performance of Christmas morning—while I sat there, hollow.
+
+Maya's handprint, painted in SGI's blue and green, hung on the wall next to a "World's Best Dad" plaque that felt more like a challenge than a celebration.
+
+At work, I wrote clean code that made machines sing.
+
+At home, I struggled to decode my own children's needs.
+
+The man who hid under the covers that morning was still learning how to emerge.
+
+---
+
+**1995-1997 - The Pattern Becomes Clear**
+
+Over the next two years, the pattern solidified:
+
+At work, I chased abstract problems. Time Warner's streaming video. Netscape's missed opportunity. Professional services offerings I didn't understand. Problems that had clear parameters, logical solutions, measurable outcomes.
+
+In law libraries, I chased another abstract problem. Birth father's name. Legal directories. Martindale-Hubbell volumes. Seven names that went nowhere. Then renewed search in 1995. Then the breakthrough in 1997—Harvard, University of Michigan Law School. Then Burton's name. Then Marcia's face in a 1958 yearbook.
+
+Both obsessions were escapes from the hardest work: being present with my family.
+
+Gina carried everything. Maya and Jamil. Her career at Kaiser. The Spanish Module she was building. Our household. My emotional absence.
+
+And when I finally found Marcia in June 1997, I poured myself into that relationship with the same obsessive intensity I'd brought to work and the search.
+
+Daily calls to Marcia while driving to work. Hours on the phone in the evening while Gina put the kids to bed. Complaining to Marcia about Gina, seeking validation from my birth mother that I was doing fine, that Gina was too judgmental, that I deserved better.
+
+Marcia readily agreed, coming to the defense of her little boy.
+
+But the pattern was the same: escape into abstraction. Avoid emotional complexity. Chase problems that could be solved with logic and persistence rather than presence and vulnerability.
+
+The irony was brutal: I was searching for authenticity—who am I really?—by running from the places where authentic connection was possible.
+
+With Maya assembling the bunk bed.
+With Jamil's smile transforming my mood when I let it.
+With Gina, who was building something real at Kaiser while I chased fantasies.
+
+---
+
+**The Question Beneath All Others**
+
+My search for identity, as an adopted son, as a father, was really one journey.
+
+Who am I beneath the performances and expectations?
+
+At Princeton, I'd performed "smart Black student who belongs at an Ivy League school."
+
+At SGI, I'd performed "brilliant engineer who can solve impossible problems."
+
+In law libraries, I'd performed "determined searcher who will find answers through sheer persistence."
+
+With Marcia, I performed "loving son worthy of the unconditional love I'd been denied."
+
+But what was I when I wasn't performing?
+
+The bunk bed scene with Maya had shown me a glimpse. When I admitted I was wrong. When we collaborated instead of me controlling. When I was just... present.
+
+That was real.
+
+But I didn't know how to sustain it. How to make presence the default instead of performance.
+
+The hardest role I'd ever have to play, I was beginning to understand, wasn't a role at all.
+
+It was simply being myself.
+
+And I still didn't know who that was.
+
+---
+
+**1997 - Three Collapses Converge**
+
+By late 1997, all three domains of my life were in crisis:
+
+**Professional:** SGI was dying. I was failing in a GM role I didn't understand. Netscape's billions reminded me daily of the road I hadn't taken.
+
+**Birth parent search:** I'd found Burton (dead). I'd found Marcia (volatile, conditional, as wounded as I was). The fantasy of unconditional love from a biological mother had shattered against reality.
+
+**Family:** Gina had withdrawn. Maya and Jamil responded to me with muted greetings. My obsession with Marcia was creating distance in my primary relationship. When I came home, the response was: "Hi Dad." A glance. A nod. After Gina put the kids to bed, there was little energy left for me. "Goodnight, I'm tired."
+
+I had a gradual recognition that Gina had withdrawn. It was not the first time, but I was slowly coming to recognize it as my distractions disappeared. Marcia had turned out to be another escape, just like coding, just like searching for Burton.
+
+Both obsessions provided abstract problems to solve instead of being present with my family.
+
+My family needed me to perform each and every day. Though my kids did not tell me to my face that I was failing, I knew I was.
+
+---
+
+**Looking Forward**
+
+Sitting there on Christmas morning 1995, I felt like I was watching someone else's life through glass. I had everything I was supposed to want, yet something was missing.
+
+By 1997, I was beginning to understand what it was.
+
+I'd spent my whole life seeking belonging through performance. Achieve enough, solve enough problems, find enough answers, and maybe I'd finally know who I was.
+
+But belonging doesn't come from performance. It comes from presence.
+
+Maya knew that at five, collaborating on a bunk bed.
+Jamil knew that with his smile that transformed moods when I let it in.
+Gina knew that, building her Spanish Module while carrying our family.
+
+I was the only one still running.
+
+The search for my birth parents had been necessary. I needed to know where I came from. I needed to see Marcia's face in that yearbook and understand the physical features I'd carried without context.
+
+But it hadn't answered the deeper question.
+
+Who am I, really, beneath all the performances?
+
+That answer wouldn't come from finding Burton's name or Marcia's face or Harvard's records or any legal directory.
+
+It would only come from learning to be present. To stop escaping into abstraction. To stay with the discomfort of not knowing, of being wrong, of being seen as I actually was rather than as I performed myself to be.
+
+The man who hid under the covers Christmas morning 1995 was still learning how to emerge.
+
+The man who walked out of the apartment when Jamil cried was still learning how to stay.
+
+The man who poured himself into work obsessions and birth parent searches and volatile relationships with Marcia was still learning how to be present with the family he had.
+
+That learning would take years. Decades. A lifetime.
+
+But the bunk bed moment with Maya had shown me it was possible.
+
+Admission: "You're right, I'm wrong."
+Collaboration: "Let's fix it together."
+Presence: Not performing, just being.
+
+The hardest role I'd ever play wasn't a role at all.
+
+It was learning to be real.
+
+And in 1997, surrounded by the wreckage of three collapsing domains, I was finally ready to begin.
+
+---
+
+**Photo Captions:**
+
+Standing/Back: Henry Rogers (Uncle Bubba), Willa Burns (Mom), Derrick Burns (me)
+Front: Dave Burns, Renee Burns (Dave's wife), Gina, Lucille Pryor (Cille), Mildred Rogers (Aunt Mildred), Howard Burns (Dad)
+c. Dec 25, 1990
+
+Groomsmen: Patrick Lawrence, James Raby, James Latham, Hugh Gregory, David Burns (Jala), Vince Nakayama
+Bridesmaids: Brenda Carr, Cheryl Grills, Dayna Matthew, June Cross, Wendy Snypes
+April 28, 1990
+
+"Mr. Smiley", Baby Jamil Burns
+c. May, 1993
+
+Rev. Doctor Charles Morton, Doctor Gina Gregory Burns, Derrick Burns, Mrs. Willa Burns, David Burns (Jala McKenzie Burns), Mrs. Mildred Rogers, and Mrs. Virginia Donaldson
+c. May 1993
+
+Baby Maya looking out for Baby Jamil
+c. January 1993

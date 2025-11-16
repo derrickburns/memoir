@@ -1,0 +1,342 @@
+Chapter 21: The Decline (1995-1999)
+
+**1995-1996 - Learning the Rules**
+
+By 1995, I'd been at SGI for eight years—since my summer internship in 1987. I'd risen from intern to second-level leadership, built streaming video technology a decade ahead of its time, led teams to impossible achievements.
+
+But I was learning, painfully, that technical excellence was never going to be enough.
+
+The proof sat on my desk: stacks of SIGGRAPH conference papers I was reviewing. SIGGRAPH was the Olympics of computer graphics, and they were asking me to judge the competition. My expertise was recognized without question in this domain.
+
+But there were unwritten rules I'd never learned. Rules about credit, politics, self-promotion—rules that had nothing to do with whether your code worked.
+
+**The Alan Theft - A Lesson in Politics**
+
+Months after completing those SIGGRAPH reviews, Dan stuck his head in my office.
+
+"Alan submitted a paper to SIGGRAPH. Did you know about that?"
+
+"What? No I didn't!"
+
+I walked to Alan's office. He wasn't there. But when the preprint arrived, I got my answer.
+
+There it was—our algorithm, the one I'd spent months implementing, debugging, perfecting. Alan had contributed some basic theory, sure, but theory alone doesn't make software run. Every technical detail matched what we'd built together.
+
+But under the title, only Alan's name appeared.
+
+I stood there holding the paper, feeling heat rise in my chest. The same SIGGRAPH conference where I'd been reviewing papers—judging the work of others—and Alan had submitted our shared work as his own.
+
+A colleague, seeing my distress, offered advice I never forgot: "Don't wrestle with a pig; the pig will like it, and you'll only get dirty."
+
+So I swallowed my rage and buried the disappointment. I kept my mouth shut, not quite sure where I stood, but knowing any drama from me would only damage my reputation.
+
+Each time I saw Alan on campus, that familiar anger surged.
+
+Alan left SGI a year later. Gradually, I learned to let the burden go.
+
+But the lesson stayed: I had arrived at SGI thinking good work spoke for itself. Now I was learning there was an unwritten rulebook everyone else had read. And technical brilliance, no matter how impressive, couldn't protect you from those who understood the politics better than you did.
+
+**1996 - Wei Yen's Dismissal**
+
+In 1996, my former sponsor Wei Yen left SGI to start his own company.
+
+Wei had championed my work, opened doors, helped me earn credibility in rooms where I might not have been invited otherwise. When he left, I reached out to explore potential opportunities, assuming our shared history would at least merit a conversation.
+
+His response caught me completely off guard.
+
+"Why are you calling me?" he scoffed.
+
+His tone made it clear: I wasn't on his level. I recoiled, hurt and surprised.
+
+The sting lingered. I had believed our professional relationship meant something, that the code I'd written, the problems I'd solved, had earned a baseline of respect. His rejection forced me to confront an uncomfortable truth: my perception of workplace relationships often diverged from reality.
+
+My mind flashed back to our first meeting, years earlier, long before LinkedIn or social media made people visible on demand.
+
+"Are you Derrick?" he'd asked, clearly surprised.
+
+"Yes," I'd replied, already aware of his reputation.
+
+"I expected an old white man," he'd admitted.
+
+"I hope you're not disappointed," I'd joked.
+
+"No," he'd chuckled. "Just surprised."
+
+Now, after that abrupt phone call, I found myself questioning the sincerity of that first encounter. Had Wei been genuine? Or just strategic?
+
+The lessons of Detroit echoed clearly: stay vigilant, trust carefully.
+
+**1996-1997 - The Mismatch**
+
+At SGI, we built Ferraris: beautiful, powerful, expensive machines that pushed the boundaries of what was possible.
+
+The world wanted reliable Toyotas.
+
+A fundamental shift was underway. For years, cutting-edge graphics and simulation work required high-end workstations and supercomputers; custom-built machines that cost tens or even hundreds of thousands of dollars. But by the mid-'90s, that power was migrating to personal computers, which were rapidly becoming cheaper, faster, and "good enough."
+
+Instead of buying a specialized SGI machine, customers could now build powerful systems from off-the-shelf parts, and get most of the performance at a fraction of the cost.
+
+The mismatch was becoming impossible to ignore.
+
+Competition came from below—cheaper products—as it almost always does in technology. SGI was like a deer in the headlights, frozen, as new entrants innovated much faster.
+
+I felt like a boat without a rudder, drifting between organizations with no real direction, no clear purpose.
+
+At its peak, SGI wasn't just a hardware company; it was Silicon Valley royalty. Our machines powered the first blockbuster visual effects, drove NASA simulations, and enabled cutting-edge scientific breakthroughs. To work there felt like shaping tomorrow in real time.
+
+But that tomorrow was ending.
+
+**1997 - Colette's Coaching**
+
+In this new and challenging role as GM, I found an unexpected haven in Ken Coleman's HR department. Ken, one of the few Black executives in Silicon Valley at the time, had risen through the ranks at Hewlett-Packard before joining SGI.
+
+Among his team was Colette McPherson, a perceptive Oakland native who quickly became my coach and confidant.
+
+I stopped by her cubicle regularly. I wasn't wracked with anxiety, but I was facing situations that genuinely befuddled me. My instincts, so reliable in engineering, now felt out of tune in leadership. What used to work no longer did.
+
+I was reminded of my time at Princeton, when I became president of the NSBE chapter. Back then, I had also stepped into leadership expecting competence and drive to be enough. But managing people, especially peers, proved far more complex. That same feeling had returned, only now the stakes were higher, the audience larger, and the margin for error thinner.
+
+One morning, after a particularly tense meeting, I walked into Colette's cubicle, unsure what I even wanted to say. A team member, once collegial, had grown distant and resentful since my promotion.
+
+"He won't even look me in the eye," I told her. "Leans back, folds his arms, looks down his nose like I'm the one who doesn't belong."
+
+Colette didn't flinch.
+
+"Invite him to lunch. One-on-one," she said. "Tell him you value his experience. Be honest about your challenges. Humility can be disarming."
+
+So I did. And it didn't work, at least not at first. The first few lunches were stiff, awkward. He stayed guarded, and I kept second-guessing myself. But I persisted. I named the tension, owned my discomfort, and gradually, he softened. We didn't become friends, but we became functional. That was a start.
+
+When I told Colette, she smiled. "See? People want to feel valued. The leader doesn't stop being human."
+
+She kept nudging me toward something I didn't understand. I was frustrated. I wanted this guy to recognize my competence, to get over whatever insecurity or resentment he carried. Why couldn't he just fall in line like everyone else?
+
+"How did that lunch go?" Colette asked after my third attempt.
+
+"Better. But I still feel like I'm walking on eggshells."
+
+"Did you tell him you were nervous about managing people?"
+
+I stared at her. "What? No. Why would I—"
+
+"Try it next time."
+
+"Huh? Why would I do that?"
+
+"It's not weakness. It's human."
+
+The next lunch, I broke. Halfway through discussing how we needed to document our APIs, I stopped.
+
+"Look, Steve. I really want to make this work. I have not been a manager before, and I am clearly screwing up. You are amazing! You come from Apple, a real software company. I believe that if we work together, we can both be successful. How does that sound?"
+
+He leaned back in his chair, studied me for a long moment. Then something shifted in his expression.
+
+Steve looked at me, studying my face. His hands were still clasped. His lips still pursed. But then he unclasped his hands and rested them on his legs and spoke a single word: "Ok."
+
+For the first time in weeks, he smiled.
+
+Slowly, painfully, I was learning that emotional intelligence mattered as much as technical brilliance. Maybe more.
+
+**1997 - The Professional Services Struggle**
+
+Willie C. Hooks had brought in his vision from DEC: professional services as a repeatable, scalable business. Not custom solutions for every customer, but packaged offerings with predictable costs and high utilization rates.
+
+Malcolm Jones tutored me in the theory. It made sense on the whiteboard.
+
+But I had no idea how to put it into practice.
+
+My problem: I had spent no time with real customers. Blake had. And listening to him wax poetically about the Hollywood meetings he'd had exposed wounds I didn't know I had.
+
+When Blake walked into a room, he owned it. A survivor of a transplant, Blake had an insight I could not begin to grasp. He needed no one else's affirmation, and this confidence gave Blake the ability to paint visions of tomorrow.
+
+As an engineer, I found his visions fantastic, but not in a good way. Rather, I judged them as flights of fancy, and whispered as much in private.
+
+Ken noticed.
+
+The elevator confrontation that followed—Ken pressing his finger into my chest, telling me to know myself and control myself—was the wake-up call I needed but wasn't ready to hear.
+
+"What are you really angry about?" Ken asked later.
+
+"I don't know how to do this," I admitted.
+
+"Blake gets the Hollywood meetings because he knows how to talk to those people. Malcolm understands P&L because he's done it for twenty years. These aren't your enemies. They're showing you what you need to learn."
+
+I stood there alone after Ken left, watching my distorted reflection in the polished wall, feeling smaller than I had since my first day as an intern.
+
+In engineering, I'd always known exactly where I stood; my code worked or it didn't. But here, I was flailing, and instead of asking for help, I was lashing out at people who had what I wanted.
+
+**1998 - Ken's Medical Leave Suggestion**
+
+By 1998, the strain was showing.
+
+Ken suggested I take a medical leave. Medical leave meant pay with full benefits, a privilege he was extending that I didn't fully understand.
+
+But I didn't need a leave. I needed to leave.
+
+I was failing in my job, as was the Professional Services business, and SGI in general. The dream of being a leader and peer of Marc Hannah at a prestigious tech company was slipping away.
+
+Yet I stayed. Paralyzed by the same fear that had kept me from joining Netscape. Afraid that leaving meant admitting failure. Afraid that I'd never find another place where I belonged.
+
+**1997-1998 - The Stock Slide**
+
+I checked the stock price obsessively.
+
+$45 in 1995.
+$35 in 1996.
+$25 in 1997.
+$15.75 by late 1998.
+
+Each dollar lost felt personal. My options, once worth something real, were now underwater. The wealth I'd imagined—the financial security that would justify all the hours away from my family—was evaporating.
+
+And Netscape, the company I'd been too afraid to join, was worth billions.
+
+**1998 - The Departures**
+
+First Howard left. Then Jim. Then Marc.
+
+Each departure felt like betrayal, even though I knew better. Vince walked into my office one afternoon and dropped into a chair.
+
+"I'm leaving too," he said.
+
+"When?" I asked, stomach already tightening.
+
+"End of the month," he said. "Did you see the stock?"
+
+I had. $15.75. Just three years earlier, it had been $45.
+
+Vince wasn't just a colleague; he was part of my foundation at SGI. My officemate from the early days, the man who'd taught me about fine dining and impeccable espresso, who'd expanded my world beyond technical pursuits.
+
+A steady drip had become a flood. Each goodbye carved away another piece of what I thought I was building. And with each departure, the truth got clearer: my time was ending too.
+
+**1998-1999 - Willie's Wisdom**
+
+"We all succeed or we all fail," Willie had said when he brought me into Professional Services.
+
+By 1999, the verdict was clear. We failed.
+
+The VP of Professional Services resigned. We weren't growing. Repeatable offerings remained elusive. Utilization rates were terrible. Customer relationships I'd never built couldn't sustain a business I didn't understand.
+
+Willie's investment in me—bringing in Malcolm to tutor me, giving me the GM role, believing I could learn fast enough—hadn't paid off.
+
+I'd failed him. Failed Ken. Failed myself.
+
+**1999 - The End**
+
+After two failed attempts at internal transfers, I found myself seated across from Ken's HR rep, negotiating my severance.
+
+Twelve years after arriving as a summer intern, I was leaving as a General Manager. The irony wasn't lost on me.
+
+I paused at the doorway to my office one last time. My books, technical journals, the entire "Derrick Burns branch" of the SGI library, were packed into boxes. I carefully placed my O2 project plaque—commemorating our groundbreaking sub-$20,000 workstation—on top, next to family photos.
+
+As I rolled the boxes toward my car, wheels squeaking across once-lively floors, I passed conference rooms that used to ring with debate and laughter. The halls were quiet now.
+
+Fired. Shaken. I took stock.
+
+I needed redemption. A second wind. Silicon Valley still held possibilities, if I could learn what it had tried to teach me.
+
+SGI had been my rollercoaster—thrilling, terrifying, transformative. I arrived believing talent would carry me. I left knowing it never would.
+
+**The Parking Lot - Final Moment**
+
+At my car, I loaded the final box. On top sat a photo someone had taken years ago—Marc Hannah and me at an SGI event, two engineers who'd helped shape the foundation of modern computer graphics.
+
+Marc had co-founded the company. I'd joined as his protégé, following the path he'd blazed.
+
+He'd created generational wealth and lasting impact. I was leaving with a severance package and underwater stock options.
+
+The difference wasn't talent. It was courage, vision, and the willingness to take risks I'd been too afraid to take.
+
+As I pulled away from SGI for the last time, I thought about Jim Clark's offer five years earlier. Coffee in Palo Alto. "I want you to join us."
+
+I'd said no because I was afraid. Afraid I wasn't good enough. Afraid of starting over in a domain I didn't understand.
+
+And that fear had cost me everything.
+
+**Months Later - The Final Encounter**
+
+I walked out of Kepler's Bookstore in Palo Alto, next door to Cafe Borrone where Jim had first approached me about Netscape.
+
+Jim Clark was standing on the sidewalk.
+
+I walked up to him, fighting back the deep well of embarrassment and regret I had suppressed for years.
+
+"Hi Jim!"
+
+He saw me and smirked. "Hi Derrick."
+
+Pause.
+
+"You should have joined me."
+
+He didn't wait for a response. He just walked away, leaving me standing there with the weight of what I'd lost.
+
+And he was right—it had sailed. But I hadn't been ready to jump.
+
+Not then.
+
+**The Lessons**
+
+SGI taught me what Princeton and Stanford never could:
+
+**Technical excellence isn't enough.** You can build the best code in the world, solve impossible problems, deliver breakthrough technology—and still fail if you don't understand politics, relationships, and the unwritten rules.
+
+**Fear is expensive.** The Netscape decision cost me generational wealth. But more than that, it cost me the chance to learn if I could have succeeded in unfamiliar territory. I'll never know, because I was too afraid to try.
+
+**Mentorship matters more than talent.** Ken Coleman, Willie Hooks, Malcolm Jones, Colette McPherson, Reuel—they invested in me when I didn't deserve it. They taught me lessons I was too proud to learn quickly enough. By the time I understood what they were offering, it was too late to save my tenure at SGI.
+
+**Emotional intelligence is as important as IQ.** Lashing out at Blake. Undermining colleagues. Letting anger drive my behavior instead of curiosity about what I could learn from them. These failures weren't technical—they were human. And they cost me dearly.
+
+**Compartmentalization prevents integration.** While I was struggling at work, I was drowning at home. While I was searching for my birth father in law libraries, I was abandoning my children. While I was building walls in every domain, Gina was building bridges that actually mattered. I'd spent my life separating pieces of myself into neat containers. SGI's collapse forced me to recognize that wholeness requires integration, not isolation.
+
+**The world doesn't wait for you to be ready.** Technology moved from workstations to PCs. The internet exploded while I was building interactive TV. Competitors innovated faster than SGI could adapt. And Jim Clark built the future while I stayed safe in the known.
+
+I left SGI in 1999 with boxes full of books, a plaque from a discontinued product line, and hard-won wisdom I'd paid for with twelve years of my life.
+
+But I also left with something else: clarity.
+
+I finally understood what I'd been running from all these years.
+
+Not the work. Not the challenge. Not even the failure.
+
+I'd been running from the question beneath all the others:
+
+Who am I when I'm not performing excellence?
+
+What's left when the code doesn't work, the stock options are underwater, the promotion doesn't save you, and the walls you've built can't protect you anymore?
+
+SGI forced me to find out.
+
+And the answer terrified me.
+
+Nothing. There was nothing beneath the performance.
+
+Or at least, that's what I believed in 1999 as I drove away from SGI for the last time.
+
+What I didn't know yet was that the sabbatical I'd taken in 1997—the one that led me to Marcia, to Burton's name, to all the complicated truths about where I came from—had planted seeds I wasn't ready to recognize.
+
+The collapse wasn't the end. It was the beginning of learning who I might become when I stopped performing and started being real.
+
+But first, I had to live through the consequences of a decade spent choosing fear over courage, walls over bridges, performance over presence.
+
+SGI was over.
+
+My marriage was strained beyond recognition.
+
+My relationship with Marcia was a rollercoaster of enrapture and estrangement.
+
+And somewhere in all that wreckage, I would have to figure out how to be a father to Maya and Jamil—not the performed version of fatherhood, but the real thing.
+
+That reckoning was coming.
+
+But not yet.
+
+First, I had to survive the aftermath of everything falling apart at once.
+
+1999 was the year I learned that you can't build a life on excellence alone.
+
+You need courage. Connection. Authenticity. Presence.
+
+All the things I'd spent my life avoiding.
+
+All the things I was about to be forced to learn.
+
+The hard way.
